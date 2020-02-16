@@ -1,0 +1,22 @@
+Known bugs in version 1.0:
+
+* When double-clicking on a spell to bring up details, the newly
+created window will beep if created under your cursor position.
+This happens at the time of the WinShowWindow call to the MLE.
+If anybody can figure this one out, great!!!
+
+* Error handling is minimal.  The program usually crashes if
+files aren't in the right format.
+
+* Spell format requirements are still fairly rigid... needs to
+be more intelligent about accepting input spells.
+
+* When displaying the details of a spell, there are problems with
+the format of tables (i.e. columns of numbers that are supposed to
+line up).
+
+* Although editing a spell and saving it "works", it doesn't work
+well... change needs to be made to the original file.
+
+* Multiple spells with the same name -> problems when loading in
+spell lists.

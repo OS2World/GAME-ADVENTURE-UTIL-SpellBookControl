@@ -1,0 +1,23 @@
+; master list of spells for spellbook programs
+; great net spellbook
+mu\0
+mu\1
+mu\2
+mu\3
+mu\4
+mu\5
+mu\6
+mu\7
+mu\8
+mu\9
+; and prayerbook
+pr\1
+pr\2
+pr\3
+pr\4
+pr\5
+pr\6
+pr\7
+; changed spells
+splbook.chg
+

@@ -1,0 +1,37 @@
+DLGINCLUDE 1 "spldlg.h"
+
+DLGTEMPLATE SELECT_DLG LOADONCALL MOVEABLE DISCARDABLE
+BEGIN
+    DIALOG  "Select which spells?", SELECT_DLG, 15, 61, 332, 157, WS_VISIBLE, 
+            FCF_SYSMENU | FCF_TITLEBAR
+    BEGIN
+        LTEXT           "Name:", 123, 5, 143, 28, 8, NOT WS_GROUP
+        ENTRYFIELD      "", DLG_NAME, 71, 143, 239, 8, ES_MARGIN
+        LTEXT           "Type:", 124, 5, 130, 31, 8
+        AUTOCHECKBOX    "Mage", DLG_MAGE, 72, 131, 40, 10
+        AUTOCHECKBOX    "Priest", DLG_PRIEST, 117, 131, 40, 10
+        AUTOCHECKBOX    "Reversible?", DLG_REVERSIBLE, 252, 130, 61, 10
+        LTEXT           "School:", 125, 5, 116, 36, 8
+        ENTRYFIELD      "", DLG_SCHOOL, 71, 118, 239, 8, ES_MARGIN
+        LTEXT           "Sphere:", 126, 5, 102, 48, 8
+        ENTRYFIELD      "", DLG_SPHERE, 71, 102, 239, 8, ES_MARGIN
+        LTEXT           "Spell Level:", 127, 5, 88, 50, 8
+        ENTRYFIELD      "", DLG_LEVEL, 71, 88, 75, 8, ES_MARGIN
+        LTEXT           "Components:", 134, 167, 88, 57, 8
+        ENTRYFIELD      "", DLG_COMPONENTS, 227, 88, 83, 8, ES_MARGIN
+        LTEXT           "Saving Throw:", 132, 5, 71, 60, 8
+        ENTRYFIELD      "", DLG_SAVE, 71, 71, 239, 8, ES_MARGIN
+        LTEXT           "Description:", 133, 5, 57, 53, 8
+        MLE             "", DLG_DESCRIPTION, 69, 34, 229, 33, MLS_WORDWRAP | 
+                        MLS_HSCROLL | MLS_VSCROLL
+        AUTORADIOBUTTON "And", DLG_DES_AND, 301, 54, 28, 10, WS_GROUP | 
+                        WS_TABSTOP
+        AUTORADIOBUTTON "Or", DLG_DES_OR, 301, 41, 25, 10, WS_TABSTOP
+        AUTORADIOBUTTON "And", DLG_AND, 8, 35, 39, 10, WS_GROUP | WS_TABSTOP
+        AUTORADIOBUTTON "Or", DLG_OR, 8, 22, 24, 10, WS_TABSTOP
+        AUTOCHECKBOX    "Case Sensitive", DLG_CASE, 7, 8, 72, 10, WS_GROUP
+        PUSHBUTTON      "Select these...", DLG_OK, 92, 11, 68, 14, WS_GROUP
+        PUSHBUTTON      "Cancel", DLG_CANCEL, 175, 11, 68, 14
+        PUSHBUTTON      "Help", DLG_HELP, 258, 11, 68, 14
+    END
+END

@@ -1,0 +1,21 @@
+; file for defining icons
+; icons are looked up by priest sphere (if applicable), then
+; mage school, then given the default icon.
+;
+; spells in 2 spheres/schools are assigned the first icon that
+; matches, so put the cool icons first!
+;
+; some mage school icons
+Evocation fire.ico
+Necromancy pools.ico
+Conjuration hell.ico
+Summoning lemmings.ico
+Divination help.ico
+Alteration prdctvty.ico
+Illusion xmaslemm.ico
+; some priest sphere icons
+Astral icon2024.ico
+Fire fire.ico
+Elemental element.ico
+All smiley.ico
+

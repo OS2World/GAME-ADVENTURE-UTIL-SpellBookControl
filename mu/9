@@ -1,0 +1,1229 @@
+Bone Shatter (Evocation)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: 1 round per 5 levels
+Casting Time: 9
+Area of Effect: One creature
+Saving Throw: Special
+
+This is a more powerful version of the 5th level spell Bone Splinter.
+It is identical to that spell except that is has a +3 "to hit" bonus
+and causes a serious compound fracture when a hit is scored in melee,
+with the following results:
+
+ 	  to hit
+ location  modifier	effects
+ --------  --------	------------------------------------------------
+ head		-8	major skull fracture:
+ 			save vs. spell or die; else suffer 4d8 points
+ 			of damage (no save for 1/2).
+ arm *		-4	major broken arm:
+ 			arm is totally useless; it cannot be used to
+ 			attack or defend with.
+ leg *		-4	major broken leg:
+ 			leg is totally useless; movement is 1/2
+ 			normal.
+ ribs		-4	broken rib:
+ 			loss of 1d6 CON points and 2d8 points of damage
+ 			(no save).
+ spine @	-8	severed vertebrae:
+ 			save vs. spell or die; else paralysed until
+ 			healed/cured.
+ pelvis		-4	major hip fracture:
+ 			-6 to DEX when using legs; movement rate is at
+ 			1/4 normal; suffer 3d8 points of damage (no
+ 			save).
+
+* if attacking from the side, only the nearest appendage may be
+targeted.
+@ the spine may only be targeted if attacking from the rear.
+
+A cure critical wounds spell is required to heal one of these effects
+(except for paralysis, which must be cured by normal means) as long as
+the victim is still alive, and a heal spell will fully restore a living
+victim to full health.
+
+The material components for this spell are an intact bone of at least a
+foot in length, and a large metal hammer which are consumed when the
+spell is cast.
+
+------------------------------------------------------------------------
+Coradon's Conflagration (Invocation/Evocation)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 150 yards
+Components: V, S, M
+Duration: 4 rounds
+Casting Time: 9
+Area of Effect: Special
+Saving Throw: 1/2
+
+This spell causes a fiery explosion similar to that of a Fireball, but
+with a smaller radius (initially a 20' radius sphere). However, the
+flames caused by this spell will continue to burn for 4 rounds (the
+initial round, plus 3 additional rounds). The damage inflicted on
+victims inside the area of effect, the bonus to the victim's saving
+throw, and the radius of the flames vary according to how long the
+flames have been burning, as follows:
+
+ round	damage	radius	save bonus
+ -----	------	------	----------
+ 1	8d8	20'	0	
+ 2	4d8	15'	+1	
+ 3	2d8	10'	+2	
+ 4	1d8	5'	+3	
+
+Damage suffered is cumulative from one round to the next, but the save
+bonus is not. Anyone who makes a successful save takes only half damage
+that round, and automatically saves on any subsequent rounds; those who
+fail their saves suffer full damage, and must have all their
+possessions save vs. magical fire to avoid destruction. If anyone
+leaves the area of effect and returns later, a new save must be made,
+even if the previous one was successful.
+
+The conflagration may, or may not conform to a confined space, at the
+caster's discretion. Apart from the changes mentioned above, the
+conflagration otherwise acts like a Fireball.
+
+The material components for this spell are the heart of a red dragon,
+and a powdered diamond worth at least 600 GP.
+
+------------------------------------------------------------------------
+Damians Mindswap (Enchantment/Charm)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 7"
+Components: V, S, M
+Duration: Permanent
+Casting Time: 9
+Area of Effect: One creature
+Saving Throw: Negates
+
+When this powerful enchantment is cast, the spell user attempts to rip
+the target creatures soul from its body and temporarily place it in a
+gem of not less than 15000 GP. At the same time the casters soul is
+eased from his body and also travels through the gem. When, and if,
+both souls are in the gem, they both proceed to the opposed bodies from
+which they came. You'll note that this has two very noticeable
+effects:
+
+1) the caster and victim have essentially swapped minds (or bodies,
+whichever you prefer), this has the effect that the caster now takes on
+the physical attributes of that body (i.e. STR, CON, DEX and COM). The
+caster still retains his own mental capacities and previous knowledge
+(i.e. INT, WIS, CHR, hit points and level).
+
+2) If the caster or victim can kill their old body (i.e. their swapped
+body) then the others soul goes to its respective plane. Thus, after
+completion of the spell, if the caster kills his old body then he can
+never be displaced from his new, for in all intents and purposes it is
+his body now. If neither is killed and at some later point in time a
+cleric casts an exorcise spell at either body (both have to be within
+7" of each other though) the caster of the original Mindswap must save
+vs. death or return to his old body.
+
+If the save vs. this spell is made it indicates that this persons body
+will never accept the casters soul and need never fear this spell from
+the same caster again.
+
+------------------------------------------------------------------------
+Demonic Immunity (Abjuration)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: Special
+Casting Time: 1 round
+Area of Effect: Caster
+Saving Throw: None
+
+Requires a demon's amulet of at least a type one demon, which is slowly
+consumed and will be destroyed when the spell ends. Renders you
+invulnerable to all demonic powers. Does nothing for physical attacks.
+You cannot be telekinesed, you cannot be charmed by a demon, their
+unholy words don't affect you, etc. No demonic powers can harm you.
+
+The tougher the demon's amulet, the longer the spell lasts. The
+duration can be split between people.
+
+ Type 1 demon: lasts 4 rounds. That's one round for 4 people, etc.
+ Type 2 demon: lasts 6 rounds.
+ Type 3 demon: lasts 8 rounds.
+ Type 4 demon: lasts 12 rounds.
+ Type 5 demon: lasts 20 rounds.
+ Type 6 demon: lasts 50 rounds.
+ Any "named" demon: lasts 100 rounds.
+
+------------------------------------------------------------------------
+Ding Shu's Draconian Holocaust (Invocation, Evocation)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 20" + 1" per level
+Components: V, S, M
+Duration: 1 round
+Casting Time: 9
+Area of Effect: 1/5" per level by 1" per level swath
+Saving Throw: 1/2
+
+This spell causes to what appears to be a huge Celestial Dragon to
+appear in the air and swoop down spewing forth its fiery breath.
+
+The spell affects an area of 2 feet wide by 10 feet long per level of
+the caster. All creatures in the area of effect take 1D10 + 2 points of
+damage from the fire.
+
+This spell does structural damage to all constructions in the area of
+effect. The damage is 3/2/1/.5 points to wood/earth/soft stone/hard
+stone per level of the caster.
+
+The material component of this spell is the scale from a fire breathing
+dragon and a potion of firewater.
+
+------------------------------------------------------------------------
+Ding Shu's Marvelous Chopsticks (Conjuration/Summoning)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 12"
+Components: V, S, M
+Duration: 2 rounds per level
+Casting Time: 6
+Area of Effect: 12" radius sphere
+Saving Throw: None
+
+This spell brings into existence a pair of huge chopsticks, 30 feet
+long, which attacks all creatures as if they were AC 10 (modified by
+dexterity). These giant chopsticks attack with the casters THAC0.
+
+Victims weighing more than 5 tons are immobilised by the chopsticks,
+while those of lesser weight will be picked up, and may be deposited,
+within the same round, at any point in the spell's range. Those who
+successfully roll to bend bars manage to free themselves, but they may
+suffer falling damage as a result.
+
+Most probably, the caster will choose to deposit the victims into a
+gargantuan mouth which appears above his head. This mouth can hold 2
+size L, 4 size M, or 8 of size S creatures at one time.
+
+Each round, the mouth "chews" its contents for 10D10 damage each.  When
+a creature trapped inside the mouth is reduced to below 0 hit points,
+the creature is "swallowed" into the astral plane, and more room
+becomes available for creatures to be dropped into the mouth.
+
+Normally, persons reduced to such a hit point score would die in a
+matter of minutes, but in the timelessness of the astral plane, they
+may remain unconscious but barely alive for thousands of years,
+provided they had more than -10 hit points when they entered the
+plane.  This of course is only valid in campaigns which use the
+optional rule concerning hovering at death's door.
+
+If the creature caught by the chopsticks weighs more than 5 tons, then
+the mouth will move toward the trapped creature and start biting it
+into little pieces until it is all gone.
+
+The spell requires minimal concentration and direction once it has been
+cast. This allows the caster to cast other spells, and maintain
+concentration on them instead.
+
+If the caster is killed before the end of the spell's duration, the
+mouth and chopsticks will remain, with the chopsticks capturing
+creatures that were enemies of the caster and depositing them in the
+mouth when space allows.
+
+Naturally, the material component of this spell is a pair of
+chopsticks.
+
+------------------------------------------------------------------------
+Eldarr's Major Spell Conversion (Alteration)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: 1 hour per level
+Casting Time: 3 turns
+Area of Effect: Caster
+Saving Throw: None
+
+This spell is similar to the two previous spell conversion spells,
+except it may convert any spell of level 9 or less to any known spell
+of 8th level or lower.
+
+The material components for this spell are as per those for Improved
+Spell Conversion, except the gem must be worth at least 800 GP.
+
+------------------------------------------------------------------------
+Expanded Awareness (Alteration, Divination) Reversible
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 1/2" per level
+Components: V, S, M
+Duration: 1 turn per level
+Casting Time: 9
+Area of Effect: One creature
+Saving Throw: None
+
+This spell, when used, gives the caster a great deal of information
+about the immediate area. The caster receives the effects of the
+following spells or spell like powers:
+
+ Detect Phase		Detect Secret Doors
+ Detect Magic		Detect Charms and Curses
+ Detect Illusion	Detect Poison
+ Detect Invisibility	Detect Enemies
+ Detect Evil or Good	Detect Traps
+ Detect Psionics	Detect Lie 
+
+The spell remains constantly in effect and the caster receives all the
+information at once. There is no problem with assimilating the data.
+The range of detection for this spell is 1/2" per level of the caster.
+
+With the appropriate spell reversals, the caster using this spell could
+become blind to some or all of the things that the spell detects for as
+long as the spell would normally last. For example, the reversal of
+know alignment cast upon the caster will cause him to be unable to
+detect evil or good. In some instances, it will become obvious to the
+caster that some of the detections are lost.
+
+The caster does not have to concentrate to use this spell, the
+information arrives immediately and the caster knows instantly. The
+caster can cast other spells while this spell is in effect.
+
+The reverse of this spell causes one creature to be unable to detect,
+by any means, any of the above things for the magic of the spell will
+render all attempts ineffective. There is no save versus this effect.
+
+------------------------------------------------------------------------
+Fellstar's Flame Sheet (Evocation)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: Special
+Components: V, S, M
+Duration: Instantaneous
+Casting Time: 9
+Area of Effect: Special
+Saving Throw: 1/2
+
+This is an improved version of Fellstar's Flame Arc; it is identical to
+that spell, with the following exceptions:
+
+The flames fall to the ground from the height at which they were cast,
+so in effect, anyone at the initial height or below is affected by the
+flames.  In addition, if these flames are blocked by an obstacle, they
+will flow around the barrier and will rejoin at a distance equal to the
+width the obstacle; therefore, if the flames are blocked by a 2 foot
+wide boulder, they will rejoin 2 feet behind the rock. This applies in
+both the horizontal and vertical dimensions.
+
+The flames from this spell will continue to burn for one round after
+the spell is cast; anyone hit by the flames on the first round suffers
+10d10 points of damage, and those hit on the second round suffer 5d10
+points of damage. On either round, a successful save vs. spell reduces
+the damage by half (saves for the second round are at +2); if this save
+fails, all possessions must save vs.  magical fire or be destroyed.
+Note that damage is cumulative if caught in the flames on both rounds
+the spell is in effect.
+
+The material components for this spell are as per those for the Flame
+Arc spell, with the addition of one or more gems worth at least 500
+GP. The gems and the volcanic rock are consumed when the spell is
+cast.
+
+------------------------------------------------------------------------
+Fenzill's Phantasmal Fingers (Necromancy)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 40 yards + 5 yards per level
+Components: V, S, M
+Duration: 2 rounds per level
+Casting Time: 9
+Area of Effect: One target
+Saving Throw: None
+
+This spell is an enhanced version of the second level spell spectral
+hand; it differs from that spell in the following ways: it can be used
+to deliver a touch spell of any level and it gives a +3 to the attack
+roll. It has an AC of -4, but it cannot be destroyed by any attack (it
+may only be dispelled). Instead, any hit on the hand inflicts full
+damage on the caster (although a successful save vs. spell reduces this
+damage by half). The caster may end the spell with a single word.
+
+------------------------------------------------------------------------
+Genocide (Evocation, Necromancy)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 5 yards per level
+Components: V, S, M
+Duration: Permanent
+Casting Time: 9
+Area of Effect: 20-foot radius sphere
+Saving Throw: Special
+
+This spell allows the caster to kill one or more creatures of the same
+species: the caster chooses a creature as the initial target for the
+spell, and after the incantations are complete, a black bolt shoots
+forth from the caster's finger towards the chosen target.  If this
+creature makes its saving throw vs. spell at -2 (or if it has 15 or
+more HD) there is no effect and the spell terminates.
+
+If the save of the initial target fails, the creature dies, and the
+spell continues as follows:  if there are no more creatures of the same
+species within the area of effect, the spell ends at this point.
+Otherwise, the bolt will continue jumping to other targets. The bolt
+jumps randomly from one target to the next; range is not a
+consideration - as long as the target is in the area of effect, and it
+is of the appropriate race, it may be hit by the bolt. Each creature
+that is hit with the bolt must make a successful saving throw vs. spell
+(with no modifiers) or die.
+
+This spell will affect a number of hit dice equal to: 10 HD + 1 HD per
+level of the caster (the number of creatures is not a factor). The
+spell will terminate when one or more of the following occurs: the HD
+limit is exceeded, there are no more potential targets in the area of
+effect, or the bolt strikes a target with more than 15 HD (such a
+creature is unaffected by this spell).  Each target hit with the bolt
+counts towards the HD limit, whether its saving throw was successful or
+not.
+
+The bolt will never jump to a creature of a different species, or to
+one that has already been hit (whether living or dead). Any creature
+with more HD than the original target will not be affected by the bolt,
+but its number of HD is still counted towards the HD limit of the
+spell. If a target's HD would exceed the limit of the spell, it is not
+affected (and the spell terminates).
+
+The bolt will never jump back to the caster; in addition, the caster
+may choose individuals to be unaffected by the spell simply by naming
+them as part of the incantations (usually used to avoid killing friends
+or allies).
+
+Note that some races are closely related, but are not considered
+identical species for purposes of this spell (i.e. goblinkind).
+"Half-breeds" will be affected by this spell if either of their
+parent-race is targeted, as well as when the cross-breed is
+specifically targeted. However, if a parent-race is named as the
+target, a half-breed of that race earns a +2 to its save. For example,
+a half-elf is affected normally if half-elves are named as the target
+of this spell. They would also be affected if either humans or elves
+were targeted, although they would gain a +2 to their saves in the
+latter two cases.
+
+After this spell is cast, the wizard must make a successful system
+shock roll or fall unconscious for 1d10 rounds. Note that the DM may
+wish to inflict other penalties on the caster due to loss of blood (see
+material components below), especially if the spell is cast more than
+once is a short period of time.
+
+The material components of this spell are a pint of the caster's blood
+and a figurine/statuette of the race to be targeted. The blood is
+consumed at the time of the casting, and the figurine is also
+destroyed, unless the caster makes a successful save vs. spell.
+
+------------------------------------------------------------------------
+Lazatar's Spellstopper (Abjuration)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: Permanent
+Casting Time: 2 hours
+Area of Effect: 100 square foot section of wall per level
+Saving Throw: None
+
+This very potent abjuration is used to protect a castle, keep, city,
+etc.  from one or more enemy spells. For each level the caster has
+obtained, he may protect up to a 100 square foot section of wall; more
+than one application of this spell may be cast on a single wall at
+once, as long as the areas of protection do not overlap (the caster may
+shrink the area of effect to any size less than the maximum, as
+desired); in other words, no one brick of the wall may be under
+protection by more than one Spellstopper at a time. The protection
+afforded by this spell extends to individuals on top of an affected
+wall.
+
+The Spellstopper may be used to affect one other spell for each level
+of the caster; thus a 19th level caster may provide protection against
+19 other spells directed at the protected area. These affected spells
+may be *any* spells, with the exception of Wish and Dispel Magic;
+however, the chosen spells must be ones the caster already has learned.
+Once this spell is cast, any of the chosen spells directed at the
+protected area automatically fail; the Spellstopper has no affect on
+other spells.
+
+The Spellstopper may be removed by a Wish or it may be dispelled. For
+every non-chosen spell cast at the area of effect, the chance for
+dispelling the Spellstopper is increased a percentage equal to the
+level of the spell.  This bonus is cumulative (up to 25%) and lasts for
+one turn. In order to earn this bonus, the wall itself must be
+targeted; an attack directed at a defender on top of the wall does not
+contribute to this bonus.
+
+As an example, let us assume a wall is protected from, among others
+spells, Passwall, and Magic Missile, and that Fireball and Transmute
+Rock to Mud are not affected. On the first round, a Magic Missile is
+directed at one of the defenders; since the wall protects its
+defenders, the spell is stopped. The next round, a Passwall is cast on
+the wall; since it too is a chosen spell, the Passwall has no affect.
+On the third round, a Fireball is cast at the defenders, and since it
+was not named during the casting of the Spellstopper, it has full
+effect; in addition, if a Dispel Magic was cast within one turn, it
+would have a 3% bonus, since Fireball is a third level spell. Nine
+rounds after the Fireball is cast, a Rock to Mud is cast on the wall;
+it too has full effect; if a Dispel Magic was cast now, it would have
+an 8% bonus applied to it (3% for the Fireball and 5% for the Rock to
+Mud). Two rounds later, another Rock to Mud is cast; subsequent dispel
+attempts now have and 10% bonus (5% for each Rock to Mud; the 3% for
+the Fireball no longer applies, as it has been more than 10 rounds
+since it was cast).
+
+Each casting of the Spellstopper temporarily reduces the caster's
+constitution by 1d4 points; an hour of undisturbed rest will restore
+one constitution point lost in this manner. If the caster's
+constitution is reduced to 0 or less by casting this spell, he must
+make a successful system shock roll to prevent actual death.
+
+The material component for this spell is a thin sheet of lead, as well
+as the material components for *all* spells the Spellstopper will
+protect against.
+
+------------------------------------------------------------------------
+Lazzaro's Murderous Sword (Enchantment)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 50 yards
+Components: V, S, M
+Duration: 1 round per level
+Casting Time: 9
+Area of Effect: Special
+Saving Throw: None
+
+This spell is a version of Mordenkainen's sword, but with a twist. This
+spell causes a shimmering aura to form around any sword. This sword
+will then arise and be at the command of the spell caster. He may order
+to attack, defend, guard, or whatever. The sword can respond to
+moderately complex tasks like, "Let no one through this door unless
+they say the word, ixitayal."
+
+In combat the sword hit any AC on a 19 or 20, it has the same hit
+points as a fighter of the level of the caster (18 con), has the same
+AC as the caster, and fights like a fighter of the same level (i.e. 2
+attacks per round, THAC0 whatever). It attacks as if wielded by someone
+with an 18/00 strength (+3,+6). It also has it's own bonuses; it
+requires a magical sword as material component. If the sword has any
+special abilities these will also be used in the combat.
+
+The sword acts independently of the caster (obviously) and requires no
+concentration to maintain. However the caster must remain with 50 yards
+of the sword or it falls to the ground, inert (with magic drained from
+it). The ways to defeat the sword: render the caster unconscious, hit
+it for loss of hit points, encase it in something, or successfully
+dispel it.
+
+As discussed above the material component is a magical sword, the magic
+of which is consumed after the spell ends (gives high level mages a
+reason to collect all those magic swords and destroy them in the
+process). The other material component is a gem with the soul of
+fighter trapped in it. This gem becomes embedded in the sword during
+the spell. Each time the gem is used, it has a cumulative 5% change of
+shattering, freeing the poor soul inside. Obviously the gem is not
+consumed after the spell ends.
+
+------------------------------------------------------------------------
+Lichdom (Alteration)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: Permanent
+Casting Time: 3 hours
+Area of Effect: Caster
+Saving Throw: Special
+
+When this spell is cast, the wizard saves vs. Death. If he fails, he
+becomes a lich, otherwise he dies. Should he be raised or resurrected,
+he can try again. This spell makes clear why a wizard has to be 18th
+level to be able to become a lich.
+
+------------------------------------------------------------------------
+Lorth's Translocation (Alteration)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S
+Duration: Instantaneous
+Casting Time: 1 round
+Area of Effect: Caster
+Saving Throw: None
+
+Lorth's Translocation is a the most advanced teleport-class spell ever
+devised. Given a description of any sort, the caster is able to place
+himself at the specific location. The description might be a detailed
+mental image, a verbal description, a painting, "Thirty feet due east",
+"The center of the room in which stands the Sceptre of AshkaMankh", or
+anything else sufficiently precise. If there does not exist a location
+such as the one described, nothing will happen. If the description is
+insufficiently precise ("A field of grass", "The center of a forest"),
+the spell will have no effect. If the location does exist, then the
+caster will be placed there, no matter where it is.
+
+This spell can transport the caster to any plane, any distance. Note
+however that it is very, very difficult to describe a specific place in
+planes such as the Astral or the Ethereal, due to the lack of good
+landmarks. Of course, if there should happen to be a solid object in
+the place described, the caster is slain instantly.
+
+------------------------------------------------------------------------
+Magic Swarm (Alteration)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: Special
+Components: V, S, M
+Duration: Special
+Casting Time: Special
+Area of Effect: Special
+Saving Throw: Special
+
+The magic swarm spell is both a very potent, and a very unstable
+spell. With this spell, the wizard may bind up to three attack-type
+spells (those that cause any type of damage) together into one spell.
+The caster begins the incantations of the magic swarm and then "loads"
+the spells to be bound into the swarm (this effectively casts the
+spells - the proper components are required, and the loaded spells fade
+from memory; the magic swarm is the "target" for these spells). The
+wizard then finishes the binding process by continuing the incantations
+of the swarm. This entire process takes two turns plus the casting
+times of the spell(s) to be bound.
+
+When the magic swarm is actually cast, the bound spells are released
+simultaneously (this has a casting time of 3). However, due the
+unpredictable nature of this spell, there is a chance that some of the
+bound spells may not function normally. At the time of casting, the DM
+rolls 1d3; the result is the number of spells that work properly - the
+remaining spells fizzle and are lost (the spells go off in the order
+they were bound, so it is important to keep track of the order).
+
+Due to the extreme exertion required to cast this spell, the following
+penalties/stipulations are placed on its use:
+
+- only one magic swarm spell may be memorised in any two day period.
+
+- after a magic swarm is cast (actually cast, not after binding), no
+further spell casting is possible for one turn (10 minutes).
+
+- after the spell is cast, the caster temporarily loses 1d4
+constitution points; if this brings the wizard's constitution score to
+zero or below, a system shock roll must be made; if this roll is
+failed, the wizard dies, otherwise he falls into a coma until his
+constitution is restored to a positive value; it takes one hour of rest
+to restore one constitution point lost in this manner.
+
+- if the magic swarm is not cast in one hour per level of the caster,
+the caster must make a saving throw vs. spell; if this save fails, the
+swarm will discharge will full effect, centered on the caster (1d3 is
+still rolled to determine how many spells actually go off and how many
+fizzle); if the save is successful, the magic swarm simply fades from
+memory and is lost (along with all bound spells).
+
+The material component for this spell is a bag of holding (which
+effectively "holds" the spells in the bound state). When the spell is
+cast, the bag is destroyed unless the caster makes a successful saving
+throw vs. spell at -2.
+
+------------------------------------------------------------------------
+Mental Library (Alteration)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: Permanent
+Casting Time: See below
+Area of Effect: Caster
+Saving Throw: None
+
+This spell is similar to the Mental Ledger spell in that it enables the
+caster to record information in some unused portion of the casters
+brain and then gives the caster the ability to read the information at
+a later date as if they were reading it in their own hands.
+
+This spell actually will allow the caster to hold as many spells as he
+knows and any that the caster might learn in the future. In fact, any
+spells that are stored in the casters brain through the use of the
+spell will remain there essentially forever available for recall when
+necessary.
+
+This spell also allows the caster to record information other than
+spells in this "storage area". The caster can store the entire contents
+of any book that he reads and can access the book at any time in the
+future just like the spell Mental Note.
+
+Too add more information after the spell is cast requires that the
+caster cast the spell again at the time that they wish to add more
+information.
+
+The material components for this spell the first time it is cast is a
+specially prepared lead crystal which has been enchanted to absorb
+magical energies. The value of this item is no less than 50000 GP. To
+add more information in subsequent castings, the caster would require a
+pure lead crystal of 5000 GP (as in the mental ledger spell).
+
+This spell is highly useful for mages on the go who want all their
+spells and library without having to carry it around for themselves.
+
+The casting time depends on what is being stored. It takes one hour per
+spell level per spell memorised, and it takes the time it takes the
+caster to read a book to store a book (the caster is allowed to take
+short breaks and sleep if there is a large amount of information being
+memorised).
+
+------------------------------------------------------------------------
+Mezzalldam's Choking Fist (Evocation)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 3 yards per level
+Components: V, S, M
+Duration: 1 round per level
+Casting Time: 9
+Area of Effect: Special
+Saving Throw: None
+
+This spell creates a disembodied hand similar to those of Bigby's
+Hand spells, except it is much smaller (about the size of an ogre's
+hand).  It will attack as directed by the caster (no concentration is
+required to do so - the wizard simply chooses the target).  The hand
+does not automatically hit, but will attack using the caster's THAC0,
+with a +2 "to hit" bonus.
+
+If a hit is scored, the fist closes tightly around the victim's throat;
+it will continue squeezing until the target is dead, or until the hold
+is broken.  Once per round, the fist's lock may be broken by making a
+successful bend bars roll (the victim has a 10% penalty applied to this
+roll); only one person may do this each round, due to the small size of
+the hand.  Other party members who try to free the victim must devote
+their entire attention to this for the round (i.e. no other action may
+be taken, DEX bonuses to AC are lost, etc.).
+
+Each round the victim is choked, a system shock roll must be made; each
+additional round (past 1) of constriction inflicts a 5% penalty to this
+roll.  If this roll fails, the victim fall unconscious and if the hold
+is not broken the following round, the victim dies.  While a victim is
+being choked he may perform no other actions (other than breaking the
+fist's hold) - all the target's efforts are required to fight the
+effects of the constriction.  The fist will continue attacking until it
+is destroyed/dispelled, or until the spells' duration expires; the
+caster can also end the spell with a single word.
+
+The fist may be destroyed by direct attack; it has an armour class of
+-2 and as many hit points as the caster at full health.  The fist will
+also break its hold on a victim every time it loses half its remaining
+hit points.  Note however, that attacking the fist while it is choking
+a victim is dangerous; if an attack on the fist fails to hit, another
+normal attack must be immediately rolled against the victim, inflicting
+any damage normally.  If the fist's hold is released or broken, it may
+be attacked without fear of hitting companions.  If the fist is not
+choking a victim, it may be attacked by anyone who beats the wizard's
+initiative roll (or by anyone, if the fist fails to score a hit that
+round).
+
+The material components for this spell are a bit of bone and skin from
+any constricting snake; these components are consumed when the spell is
+cast.
+
+------------------------------------------------------------------------
+Mezzalldam's Lightning Swarm (Invocation/Evocation)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 10 yards per level
+Components: V, S, M
+Duration: 2 rounds
+Casting Time: 9
+Area of Effect: 5' wide, 5' per level long ray
+Saving Throw: 1/2
+
+When this spell is cast, a 5' wide, electrically-charged, blue ray
+shoots from the caster's finger, and strikes as directed up to
+distances of 10 yards per level of the caster. The ray travels in a
+straight line and is blocked by most obstacles; however, it will burn
+through thin, flammable material such as cloth and straw.
+
+When the ray reaches its terminal point, as chosen by the caster (or
+when it strikes a blocking obstacle) it will erupt into a lightning
+swarm. This swarm appears as a glowing, blue sphere with dozens of
+small lightning bolts flashing in all directions. The radius of the
+swarm is 5 feet per level of the caster.
+
+Anyone caught inside the swarm suffers 10d6 points of damage; a
+successful save vs. spell reduces this damage by half (victims wearing
+metal armour suffer a -2 penalty to their saving throw). Those who fail
+their save must make saves vs. lightning for all their objects; items
+that fail their save are destroyed.
+
+If the caster desires, the swarm may be continued for a second round.
+If full concentration is maintained, the caster may move the swarm 10
+feet per level of the caster; if the caster's concentration is broken,
+the swarm stays where it is. Anyone that comes into contact with the
+swarm during the second round suffers 5d6 points of damage. Those who
+successfully saved on the first round automatically save on the second
+round as well.
+
+The material component for this spell is the heart of a blue dragon,
+which is consumed when the spell is cast. Evil spellcasters have
+discovered that the heart of a bronze dragon will also work as a
+material component for this spell.
+
+------------------------------------------------------------------------
+Mystyk's Mystical Missile (Invocation/Evocation)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 10 yards + 10 yards per level
+Components: V, S, M
+Duration: Special
+Casting Time: 9
+Area of Effect: Special
+Saving Throw: Special
+
+This spell causes a sparking, blue ray to shoot from the caster's hand;
+the ray will strike any creature as chosen by the caster. When the ray
+strikes the target, it will evolve into a vortex of electricity that
+surrounds the victim.  The target must make a saving throw vs. spell at
+-4; if this save succeeds, the spell ends with no effect. If the save
+fails, the victim suffers damage equal to 1d8 + 1 per level of the
+caster, and the spell continues. Each round, a new save must be made,
+with a cumulative +1 bonus (i.e. -3 on the second round, -2 on the
+third, etc.); the spell ends if a save is successful, otherwise the
+victim is again subject to a damage roll. The target must devote his or
+her entire effort on escaping the vortex; if any other action is
+performed that round, the save automatically fails and damage is
+inflicted normally. If the victim is rendered unconscious by the
+vortex, saves automatically fail (although the bonus still accumulates)
+until the target regains consciousness.
+
+If a victim is killed by this spell, the vortex will immediately attack
+the nearest enemy of the caster; if none exist (within spell range of
+the caster), the spell ends. The vortex moves at a rate of 24, and the
+new target is attacked normally; the penalty or bonus to the save
+resumes at the point it left off when the previous target was killed.
+For example, if the initial target was killed during the fifth round,
+the new victim's save begins with a +1 bonus. Any number of targets may
+be attacked by this spell, as long as the saves are unsuccessful, and a
+potential target is within range; otherwise, the spell ends.
+
+The material components for this spell are the heart and scales of a
+blue dragon, and any gem worth at least 500 GP. All components are
+consumed when the spell is cast.
+
+------------------------------------------------------------------------
+Nuke (Evocation)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: Instantaneous
+Casting Time: 3 hours
+Area of Effect: 100-yard per level radius sphere
+Saving Throw: None
+
+Creates a thermonuclear explosion of 2 kilotons power per level of
+caster. Range is zero so unless used with one of the Carrier spells
+this is a suicide weapon.
+
+------------------------------------------------------------------------
+Power Word, Vapourisation (Alteration, Conjuration/Summoning)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: Permanent
+Casting Time: 9
+Area of Effect: 1" per level high cube
+Saving Throw: None
+
+When this symbol is cast, it will cause a large volume of inorganic
+material to simply vanish and cease to exist as if it had never been.
+This effect is instantaneous, and remains permanent. Only a wish can
+bring the lost matter back into existence. The volume that is destroyed
+cab be in any shape the caster desires up the maximum volume effected.
+
+If any of the inorganic material is somehow magical, then assign it a
+value of 1 to 6, using the guidelines from the magic user spell detect
+magic where artifacts are assigned a value of 6. This is the basic
+saving throw number that must be rolled, or rolled under, using a d20
+in order for the object to save and not be disintegrated.
+
+If a magic item has powers or bonuses which could protect it from
+disintegration then they must be taking into account for the items
+saving throw. An intelligent item cannot be effected by the spell, as
+it does not count as an inanimate object. A ring of spell turning would
+not be able to turn the spell, but the roll is made anyway and if the
+turning is successful, then the ring would get the bonus or be saved
+completely. A ring of protection would get it's saving throw bonus,
+while a device of protection from disintegration would always save.
+
+The material components of this spell is a pinch of dust from the
+coffin of a mummy.
+
+------------------------------------------------------------------------
+Sarius' Endosmotic Zone of Magic (Alteration)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: 1 day per level
+Casting Time: Special
+Area of Effect: Special
+Saving Throw: None
+
+This powerful spell was researched by Sarius Mendlekine, Lord of
+Telnorne.  It is actually used to create a magical rod (3' long and 1"
+in diameter) that projects a continual zone of increased magical
+potential in a spherical area of effect equal to a radius of 1" per
+level, extended outward from the rod in all directions.  This spherical
+zone makes magic function at its utmost effectiveness, normally.  But,
+it can be used to travel to planes with reduced magical factor ratings
+(MF) while keeping a MF rating of 0 within the area of effect.  On
+planes with an increased MF the spell simply allows all spells of
+9th-level or less to work optimally.  The zone will permeate any area
+which is not totally enclosed in a lead casing or protected by an
+anti-magic shell which withstands the dweomer.  All anti-magic shells
+or effects that come within the zone react as though a dispel magic is
+cast upon them each and every round.  Every round the two areas
+interact the anti-magic zones have a chance of dispelling as though a
+mage of four levels higher than the caster were trying to "Dispel
+Magic" against them.  On  planes with a negative MF rating, everything
+within the area of effect operates as though the MF rating were 0.  So,
+someone with a ring of flying would fly within the zone, but exiting it
+would cause them to drop like a rock!  On a negative MF rating plane
+anti-magic shells are dispelled at the normal level of mastery or the
+spell-caster and all spells cast by any class of characters, whether
+native to the plane or not, operate at a normal MF rating of 0.
+
+The spell's duration (from activation of the rod) is equal to a base 1
+day per level in a Prime Material plane with a MF rating of 0.  On
+negative MF rating planes, the duration is calculate as the total
+number of whole days left for the rod to operate divided by the result
+of the MF rating multiplied by -1.  For example, a 20th-level mage
+activates the rod and hurriedly enters a gateway to an alternate Prime
+Material plane with a MF rating of -5 (since the spell must be
+initially cast on a plane with a MF rating of 0 or better).  The
+duration would be determined thus: 20 days/(-5 x -1) = 4 days.  But, if
+the mage had operated the rod (for more than 1 turn) before entering
+the gateway it would have lost a days duration and be calculated as:
+19/(-5 x -1) = 3.8 days, or 91.2 hours, or 547.2 turns, or 5,472
+rounds.  If the wielder had travelled to a plane with a MF rating
+greater than 0 the spell's duration would be calculated as the base
+duration multiplied by the MF rating of the plane.  Whenever the rod
+changes alternate Prime Material planes (even if they both contain the
+same MF rating) its duration is recalculate with the current remaining
+days of operation left used as the base for determining the duration of
+the spell (disregard any remaining duration that does not equal a day
+or more in length).  If the rod travels from a positive MF rating plane
+to a negative MF rating plane the rod is totally disrupted in the
+transferral as though the spell had ended, and vice versa.  Dispelling
+magics will only affect the rod for one single round unless they are
+cast by a Demi-Power, Lesser Power, or Greater Power, in which case the
+a successful "dispel magic" will cause the device to become disrupted
+as described below.
+
+The rod is the only material component of this spell.  It is made from
+the purest mithril and rune inscribing agents (costing at least 7,000
+GP).  Then, 9 deep blue amethysts (1000 GP each) are inset to the side
+of the rod among the various runes of power, and a large sapphire
+(1,000 GP) is affixed to the top.  Once the rod has been fashioned (2
+months creation time minus 1 day per level of mage working on the
+inscribing of the runes down to a minimum of 1 month) this spell can be
+cast upon it, empowering the rod with enormous magical potential.  From
+this point, the rod remains dormant until its power is activated by
+speaking the proper command word and willing the rod to function.
+Until the rod is activated the casting mage loses a single 9th-level
+spell casting slot because of the bond that he has established with the
+rod's dormant power.  While this spell could be inscribed onto a scroll
+it would still require the rod as a material component and the mage who
+inscribed the spell would not regain the spell slot until the potential
+of the scroll was released through copying it into a spellbook or
+casting it onto the rod and activating the rod.  (Note: An apprentice
+may be used to inscribe the runes upon the rod freeing the learned
+master to further research).
+
+Although almost any sentient creature may utilise the rod, in the hands
+of the original spell-caster it will convey a personal magic resistance
+equal to his level of experience (and cumulative to any other magic
+resistance he may be employing).  On any Prime Material plane the rod
+will also act as a Rod of Striking, conveying a +3 magical to hit bonus
+and striking for 3d6+3 points of damage per round.  The rod may only
+strike once in any melee round no matter if the creature wielding it is
+capable of multiple attacks with weapons.  During the last turn of the
+spell's duration the rod will begin to hum extremely loud (hearable in
+a 1/2 mile radius.  During the last round of the spell's duration the
+rod will glow with extremely powerful magical electricity, causing 1d20
+hit points of damage to all that touch it, per segment of contact.  In
+the last round is will flash with a bright light (causing all in the
+zone to save vs. rods or be blinded for 1d20 rounds) and then cease to
+function.  This last burst of energy transmutes the mithril rod into
+pure lead, causes the runes to dissolve, and disintegrates the 10 gems
+into a useless powder.
+
+------------------------------------------------------------------------
+Sillvatar's Dragon Breath (Conjuration/Summoning)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 10' per level
+Components: V, S, M
+Duration: Instantaneous
+Casting Time: 9
+Area of Effect: Special
+Saving Throw: Special
+
+This spell conjures a dragon head similar to that created by
+Sillvatar's Dragon Bite; however, instead of bite damage, the caster
+may direct the head to make a single, instantaneous breath attack. The
+dimensions and composition of this breath attack are as per the dragon
+the material component is from.  The damage inflicted by this attack is
+equal to an attack from the appropriate dragon of age category 1-6
+(determine age randomly). For example, if a red dragon is the source of
+the material component for this spell, and a 4 is rolled for the age
+category, the breath attack takes the shape of a 90'x5'x30' cone of
+fire, and inflicts 8d10 points of damage. All victims must save vs.
+the worst of spell or breath weapon to receive only half damage;
+possessions are treated as if they had been hit by the actual
+corresponding breath weapon (if the victim's save was successful,
+possessions are not affected).
+
+The material component for this spell is the heart from any type of
+dragon; this component is consumed when the spell is cast.
+
+------------------------------------------------------------------------
+Sillvatar's Superior Summoning (Conjuration/Summoning) Reversible
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: Special
+Casting Time: 2 turns (casting time of 5 to trigger summons)
+Area of Effect: Special
+Saving Throw: None
+
+The caster of this spell is able to summon to his aid one or more
+prechosen individuals; the creatures to be summoned must be chosen at
+the time the spell is cast and must be willing to receive the summons.
+The total number of levels or hit dice of the individuals summoned must
+be equal to, or less than the level of the caster.
+
+When the spell is initially cast, the wizard must follow a set
+procedure for each person or creature summoned: first the individual
+must be marked with a Wizard's Mark spell; this must then be made
+permanent through the casting of a Permanency spell (to prevent the
+mark from wearing off). Finally, the Superior Summoning is cast; this
+entire process takes two turns, plus the casting times of the other two
+spells. Each recipient must be marked by a separate Wizard's Mark, but
+a single casting of the Permanency spell, as well as the Superior
+Summoning will suffice. These marks will be visible only to the caster
+and the recipient (although a True Seeing spell or similar magic will
+reveal them) and will remain until dispelled or the spell is
+triggered.
+
+When the wizard wishes to trigger the spell, the final incantations are
+uttered along with the names of each of the recipients (this has a
+casting time of 5). The summoned individuals will appear anywhere
+withing 100' of the caster, as desired. The individuals to be summoned
+must be on the same plane as the caster when the spell is cast
+(triggered) or they cannot answer the summons.
+
+The reverse of this spell, Sillvatar's Superior Sending, will send the
+marked individuals to a pre-chosen location (a separate location may be
+chosen for each recipient). The result is similar to a Teleport without
+Error spell, but with a separate location for each recipient. The same
+procedure must be followed as for the Superior Summoning, and since the
+Wizard's Mark disappears when the individual is summoned, multiple
+castings of this spell, as well as the Wizard's Mark and Permanency,
+are required to send summoned creatures back to where they came from.
+
+The material component for this spell is a diamond worth at least 500
+GP for each individual to be summoned. These diamonds are powdered
+and sprinkled on the Wizard's Mark (this fulfills the component
+requirements for the Wizard's Mark spell as well).
+
+------------------------------------------------------------------------
+Sphere of Annihilation (Evocation)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 4"
+Components: V, S, M
+Duration: Permanent
+Casting Time: 12 hours
+Area of Effect: 2' diameter sphere
+Saving Throw: None
+
+This ancient and arcane spell was first found in the Libram of Tel'
+Aknus the Mad.  It is used to create a sphere of annihilation.  The
+mage must prepare a special magical device, which costs 15,000 GP to
+construct, to house the energies required to bring the sphere into
+existence.  The construct is made of the rarest or ores, adamantite,
+and requires a full year of work by a master smith to fashion.  A
+Master Alchemist must then fuse ten vials of Essence of Platinum, ten
+vials of Essence of Gold, and ten vials of Essence of Silver, in this
+order, into the construct (which looks something like a giant spider
+when finished).  This will take two weeks per vial and the chance of
+success is equal to the alchemist's chance of creating said essences
+(checked for each vial fused to the structure) and any failure means
+that the entire structure has been transmuted in the metal of the
+current essence which is being fused into the construct.
+
+Then the casting procedure can take place.  It consists of a highly
+ritual ceremony requiring a black pearl of at least 1' in diameter
+being placed inside a magic circle and then calling forth the various
+magics of the planes to instill the pearl with anti-planar power of a
+sphere of annihilation.  The spell then temporarily doubles the current
+hit points of the casting mage as it starts.  Every hour of casting
+time instills the pearl with more and more power.  At the end of every
+hour's casting the mage must roll a successful saving throw vs. magic
+which is unadjusted by any means other than his current level of
+mastery.  If successful, the casting continues for the next hour.  If
+unsuccessful, the mage takes 1d20 points of damage for an unsuccessful
+hour of casting and the casting time is extended for anther hour.  The
+spell will only be successful if 12 hours of continual casting is
+completed.  Remember that if the spell is successful the mage must
+still attempt to bring the sphere under his control.  This spell in no
+way gives any special bonuses for control attempts.
+
+If the mage is reduced to zero hit points the pearl disappears (in a
+harmless, but spectacular flash of light) and his strength and
+constitution are reduced to 1 and he is thrown into a coma, losing
+knowledge of all spells currently memorised.  These statistics and
+normal hit points are regained at a rate of 1 point per day or total
+rest unless some form of magic is used to increase healing.  Until the
+mage reaches half of his original constitution score he is extremely
+susceptible to diseases and will take 4x the amount of damage a disease
+would normally inflict.  When half of his original strength is restored
+he may save vs. spells each day to see if he comes out of the coma.
+Failure means that he remains in the coma.  Once the mage comes out of
+a coma he will be in a ravenous state and will not be able to regain
+spells again till he has eaten and rested for as many days as he was in
+the coma.  Success or failure notwithstanding, this spell will always
+destroy the construct and the pearl used as the material components.
+If the spell is successful, the construct and pearl are sucked into the
+sphere, and if unsuccessful, the construct crumbles into a useless
+crystal substance and the pearl disappears as mentioned above.
+
+If the spell-caster is physically touched during the casting of this
+spell by anything, including the power of another magic, and sustains
+damage which subtracts from his hit points or any ability score or
+level, the pearl will explode in a force of magic dealing out damage
+equal to 1d20 per hour of casting time that has passed (rounded down)
+in a radius equal to 1" per hour of casting time that has successfully
+passed (again, rounded down and a unmodified saving throw vs. spells
+will allow anyone in the area of effect to save for half damage).
+Also, when this happens the extra hit points disappear (if they are
+still present) and the mage takes damage from his normal remaining hit
+points.  Death by this explosion means that the body has been
+disintegrated, ruling out "raise dead" or "resurrection" spells for
+bringing the victim back to life.
+
+------------------------------------------------------------------------
+Symmetry (Evocation)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: Instantaneous
+Casting Time: 3 hours
+Area of Effect: 10-mile radius sphere
+Saving Throw: None
+
+Composed of 2 level 9 spells which have to be cast simultaneously.
+Creates within a 10-mile radius a condition in which the symmetry
+between the physical interactions which prevailed at the time of the
+Big Bang is restored. Everything within the 10-mile radius is
+instantaneously gone regardless of magic resistance, god or artifact
+status etc. Everything for a couple of hundred miles around gets
+burned, vapourised, melted etc. Note that like Nuke this has a range of
+zero, so use of Long-Range Carrier is advised.
+
+------------------------------------------------------------------------
+Telnorne Force Layer (Evocation)
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 1"
+Components: V, S
+Duration: Permanent
+Casting Time: 1 hour
+Area of Effect: One 10'x 10' area
+Saving Throw: None
+
+The source of this highly improved version of the "Wall of Force" spell
+is the Telnorne Mageocrat.  It is used to create a barrier which cannot
+be penetrated by any known spells or forces in the multi-universe,
+including major powers, avatars, devils, or demon princes.
+
+The casting time of 1 hour is standard, but the mage must also spend a
+hour in contemplation, reviewing diagrams and/or charts of the area or
+object to which the force layer is to be attached when memorising the
+spell.  A force layer may cover an area of up to 10'x 10', and must be
+attached to a localised gravity: either an object, a structure, or an
+area.  Once cast, only spells of wish-like power may affect the force
+layer.
+
+A "Limited Wish" will effect the force layer as a 1/2 strength "Dispel
+Magic", an "Alter Reality" will effect the force layer as a 3/4
+strength "Dispel Magic", and a "Wish" will effect the force layer as a
+full strength "Dispel Magic".  The force layer may be attached to
+moving objects, but only those which are of one piece and move in
+conjunction to something else.  For example, a chest (with hinges)
+could be covered, but the chest would still need to have a break within
+the spell effect, so only the top or the bottom of the chest would be
+affected.  Placing the spell on a wagon would effectively make the
+wagon indestructible, but the wagon would never again roll since the
+wheels are now locked in place.  But, if the wheels alone (and possibly
+the axle if the mage was inventive) were protected the wagon would
+still roll.  Of course, after the wheels eventually rotted away in a
+few years the spell area would still be in effect and invisible wheels
+would still roll.
+
+When this spell is cast on the Prime Material plane the area of effect
+extends into the astral and ethereal planes, although the force layer
+will still be invisible.  Nothing will stick to the force layer except
+for another force layer which is attached to a previously cast one.
+Paint, dust, and powders will simply roll off its surface.  Only Dust
+of Appearance will stick to the force layer, and then only for 1d10
+rounds.
+
+------------------------------------------------------------------------
+Uldark's Ultimate Summoning (Conjuration/Summoning) Reversible
+Level: 9
+Source:  Great Net Spellbook, V3
+Range: 10 yards per level
+Components: V, S, M
+Duration: 1 round per level
+Casting Time: 9
+Area of Effect: Special
+Saving Throw: Special
+
+This spell is Uldark's response to his friend Sillvatar's spell,
+Superior Summoning [q.v.]; it is not as powerful (in terms of levels)
+as Sillvatar's spell, but is more versatile, and requires less
+preparation time. This spell allows the caster to summon any creature
+of the wizard's choice; only one such creature may be summoned per
+casting of this spell, and the summoned creature's hit dice may be no
+more than two-thirds the caster's level (drop fractions).  A certain
+species of creature may be specified in the summoning (or in the case
+of an adventurer, class and level), but a specific individual may not
+be called; for example, the caster may summon a 12th level Paladin, but
+may not summon a specific paladin by name.
+
+The summoned creature appears anywhere within the spell's range as
+directed by the caster. If a good caster summons an evil creature (or
+if an evil one summons a good creature) both the creature and the
+caster must roll a save vs.  spell. If the caster succeeds and the
+creature fails, the spell proceeds normally; if the caster fails and
+the creature succeeds, the creature will attack the caster immediately;
+if both fail, the creature ignores the caster (the caster may still
+attempt to gain control of the summoned creature via some other
+magic).
+
+Of course since Sillvatar's spell is reversible, Uldark felt his should
+be as well. The reverse of this spell, Uldark's Ultimate Banishment,
+sends the previously-summoned creature back to its place of origin.
+This will only work on a creature who was previously summoned by this
+spell. If the creature fails a save vs. spell at -4, it is immediately
+sent back to where it came from.
+
+The material component for this is a ruby, diamond, or emerald worth at
+least 800 GP. The gem is consumed with the casting of the spell.

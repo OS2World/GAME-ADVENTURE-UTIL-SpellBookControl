@@ -1,0 +1,129 @@
+Adaptation, 10' Radius (Abjuration)
+Level: 6
+Source:  Great Net Prayerbook, V3
+Sphere: Protection
+Range: 0
+Components: V, S, M
+Duration: 1 turn per level
+Casting Time: 1 round
+Area of Effect: All creatures within 10' radius sphere
+Saving Throw: None
+
+All those in the area of effect of this spell are affected as per the
+fourth level spell Adaptation, up to a maximum of 2 persons per
+level of the cleric (excluding the cleric, and rounding upwards).
+
+------------------------------------------------------------------------
+Mass Cure (Necromancy) Reversible
+Level: 6
+Source:  Great Net Prayerbook, V3
+Sphere: Healing
+Range: 0
+Components: V, S, M
+Duration: Permanent
+Casting Time: 7
+Area of Effect: 1" per level radius sphere
+Saving Throw: None
+
+When this spell is cast, every creature in the area of effect
+(including the caster) up to one creature per level of the caster is
+cured for 1d8 plus 1/2 the level of the caster points of damage.  This
+is as per Cure Light Wounds spell (q.v.).  The limitations on what
+creatures can be thus affected is as per that spell.  If more creatures
+than can be affected are within the spell radius, preference is given
+to those closest to the cleric.  Also, if a near creature is not
+affectable by the spell, it still counts towards the total number of
+possible creatures cured.
+
+The reverse of the spell does the same amount of points of damage to
+all within the spell radius.  The material Components for this spell is
+a vial of holy or unholy water that must be sprinkled into the air
+above the caster's head while the spell is cast.
+
+------------------------------------------------------------------------
+Polymorph into Tree (Alteration, Enchantment)
+Level: 6
+Source:  Great Net Prayerbook, V3
+Sphere: Plant
+Range: 6"
+Components: V, S, M
+Duration: Permanent
+Casting Time: 8
+Area of Effect: One creature per 2 levels
+Saving Throw: Negates
+
+This spell is similar to the polymorph other spell except that target
+creatures can only be turned into trees (usually oak).  All creatures
+get a saving throw to avoid the effects of this spell.  Those who fail
+turn into trees with their minds trapped within.  Clothing, possession,
+etc. are not transformed as part of the spell.  Those who save, feel
+their limbs turn wooden and stiff (effects as if a slow spell were cast
+upon them, with duration 2 rounds per level of the cleric).  To cast
+this spell, the cleric needs a sprig of holly and tree sap from the
+tree type to which the targets are being polymorphed into.  Only a wish
+or a higher level cleric can reverse the effects of this spell.
+
+------------------------------------------------------------------------
+Protection from Undead (Abjuration) Reversible
+Level: 6
+Source:  Great Net Prayerbook, V3
+Sphere: Protection
+Components: V, S, M
+Range: 0
+Casting Time: 1 round
+Duration: 2 rounds per level
+Saving Throw: None
+Area of Effect: 3" radius sphere
+
+This spell duplicates an effect of a Helm of Brilliance, causing the
+cleric's holy symbol to glow a bright blue when undead are within 3".
+All undead within this area and exposed to the light will take 1-6
+points of damage per round, no saving throw.  Any creature under the
+effects of this pain cannot cast offensive spells.  In addition, the
+cleric receives a +1 bonus on his d20 rolls to turn undead in the area
+of effect.
+
+The reverse of the spell, Protect Undead, is cast on a single undead
+creature (or paladin; see rules for evil clerics) and will either
+nullify the effects of a Protection from Undead spell, or move the
+spell recipient into one higher category for purposes of turning.
+Example: a lich in spell combat with a 13th level cleric casts Protect
+Undead on himself.  He is immune to the effects of any Protection from
+Undead spell the other cleric casts, and requires that the cleric roll
+a 19 on a d20 to turn him.
+
+------------------------------------------------------------------------
+Sacrifice (Necromancy)
+Level: 6
+Source:  Great Net Prayerbook, V3
+Sphere: Necromantic
+Range: Touch
+Components: V, S
+Duration: Special
+Casting Time: 3 hours
+Area of affect: Caster plus one other creature
+Saving throw: Negates
+
+This spell allows the Cleric to give up some of HP to another character
+in order that he can be better able to complete a Quest.  This is not
+"current HP" but "maximum HP".  The condition is reversed when the
+character returns from the Quest successfully.  If the character fails,
+the HP return to the Cleric at the rate of 1 per week.
+
+Here's an example: Suppose a high level cleric (with 78 HP) wants Sir
+Belvedere (80 HP) to retrieve a magical mace that was stolen.  Sir
+Belvedere agrees, but only if the cleric Sacrifices 70 of his HP, to
+ensure good faith and to help complete the mission.  The Cleric agrees,
+and Sir Belvedere goes out in search of the mace.  At this point Sir
+Belvedere effectively has 150 HP, and, for all intents and purposes his
+maximum HP is now 150.  Likewise the Cleric's maximum HP total is 8.
+
+Now suppose Sir Belvedere is successful in his mission.  When he
+delivers the Mace to the Cleric, they both immediately return to their
+normal maximum HP value.  (Although maybe not their current HP value,
+if Sir Belvedere is wounded.)  (Current damage to the spell recipient
+is split evenly among the two when HP are returned.)
+
+But suppose Sir Belvedere was killed before the mission was complete.
+That means that the Cleric will have to wait 70 weeks until he returns
+to his normal maximum HP total.

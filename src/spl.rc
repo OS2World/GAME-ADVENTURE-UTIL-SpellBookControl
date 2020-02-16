@@ -1,0 +1,88 @@
+; resource file for spellbook menus
+
+#include <os2.h>
+#include "spldlg.h"
+
+; main menu for spellbook
+MENU BOOKMENU PRELOAD
+BEGIN
+	SUBMENU "File", FILE_SUBMENU
+	BEGIN
+		MENUITEM "New Spellbook  ALT-N", NEWBOOK
+		MENUITEM SEPARATOR
+		MENUITEM "Load Spellbook ALT-L", LOADTITLES
+		MENUITEM "Load Full Spellbook", LOADBOOK
+		MENUITEM SEPARATOR
+		MENUITEM "Save Spellbook  ALT-S", SAVETITLES 
+		MENUITEM "Save Full Spellbook", SAVEBOOK
+		MENUITEM SEPARATOR
+		MENUITEM "Close Spellbook  ALT-X", CLOSEBOOK
+		MENUITEM "Quit Program  ALT-Q", QUITPROGRAM
+	END
+
+	SUBMENU "Spell", SPELL_SUBMENU
+	BEGIN
+		MENUITEM "Add New Spell \tIns", ADDSPELL
+		MENUITEM "Delete Spell \tDel", DELSPELL
+	END
+
+	SUBMENU "Book", BOOK_SUBMENU
+	BEGIN
+		MENUITEM "Find Subset", SUBSET
+		MENUITEM "Sort Spellbook", SORTBOOK
+		MENUITEM "Rename Spellbook", RENAME
+	END
+
+	SUBMENU "Help", HELP_SUBMENU
+	BEGIN
+		MENUITEM "About", ABOUT
+	END
+END
+
+MENU SPELLMENU PRELOAD
+BEGIN
+	MENUITEM "Next", NEXTSPELL
+	MENUITEM "Previous", PREVSPELL
+	SUBMENU     "Edit", EDIT_SUBMENU
+   	{
+      		MENUITEM    "~Undo\tAlt+Backspace",     EDIT_UNDO
+      		MENUITEM SEPARATOR
+      		MENUITEM    "Cu~t\tShift+Delete",       EDIT_CUT
+      		MENUITEM    "~Copy\tCtrl+Insert",       EDIT_COPY
+      		MENUITEM    "~Paste\tShift+Insert",     EDIT_PASTE
+      		MENUITEM SEPARATOR
+      		MENUITEM    "Cl~ear\tDelete",           EDIT_CLEAR
+      		MENUITEM SEPARATOR
+		MENUITEM "Enable Editing", EDIT_START
+		MENUITEM "Done, Save Changes", EDIT_SAVECHANGES
+		MENUITEM "Done, Undo Changes", EDIT_DISCARDCHANGES
+   	}
+END
+
+; accelerator table
+ACCELTABLE BOOKMENU PRELOAD
+BEGIN
+	VK_INSERT, ADDSPELL, VIRTUALKEY
+	VK_DELETE, DELSPELL, VIRTUALKEY
+	"n", NEWBOOK, ALT
+	"l", LOADTITLES, ALT
+	"s", SAVETITLES, ALT
+	"x", CLOSEBOOK, ALT
+	"s", SAVEBOOK, ALT
+	"q", QUITPROGRAM, ALT
+END
+
+ACCELTABLE SPELLMENU PRELOAD
+BEGIN
+	"n", NEXTSPELL, ALT
+	"p", PREVSPELL, ALT
+   	VK_BACKSPACE,   EDIT_UNDO,       VIRTUALKEY,    ALT
+   	VK_DELETE,      EDIT_CUT,        VIRTUALKEY,    SHIFT
+   	VK_INSERT,      EDIT_COPY,       VIRTUALKEY,    CONTROL
+   	VK_INSERT,      EDIT_PASTE,      VIRTUALKEY,    SHIFT
+   	VK_DELETE,      EDIT_CLEAR,      VIRTUALKEY
+END
+
+
+rcinclude spldlg1.dlg
+rcinclude spldlg2.dlg

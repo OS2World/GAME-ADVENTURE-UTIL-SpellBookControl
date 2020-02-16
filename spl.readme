@@ -1,0 +1,10 @@
+This is spl, a program for handling spells and spellbooks
+from various fantasy role-playing (FRP) games.  It can handle
+both mage and priest spells for TSR's AD&D (a trademark of TSR, inc)
+game, and can easily be expanded to handle other systems as well.
+In addition to possibly being useful to FRP players and
+GM's, the source may be useful to OS/2 2.x programmers learning
+about containers, MLE's, and PM programming in general.
+
+John-Marc Chandonia
+chandoni@husc8.harvard.edu

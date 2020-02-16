@@ -1,0 +1,6 @@
+Please add any changes you make to the beginning of this file:
+
+-------------------------------------------------------------
+Version 1.0 - 8/10/93
+
+Initial release. - JMC

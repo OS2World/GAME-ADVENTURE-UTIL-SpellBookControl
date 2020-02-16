@@ -1,0 +1,923 @@
+Chaos Environment (Alteration)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 1" per level
+Components: V, S, M
+Duration: Permanent
+Casting Time: 1 turn
+Area of Effect: Special
+Saving Throw: None
+
+This spell is exactly the same as Chaos Vision except that the
+environment actually is changing uncontrollably.  The ground constantly
+rolls and twists, objects from the casters mind appear and disappear.
+All creatures in the environment are constantly polymorphing.  Note
+that creatures polymorphed will need to save vs. spells each round to
+keep their former identity and not take on a new one.  All damage from
+being crushed, attacked, and otherwise affected by the spell are real,
+caused by real creatures and aberrations in the area.  I usually give
+1d6 of damage per round due to constantly being battered and thrown.
+DM's can give whatever they like however as needed by the alteration
+that caused the damage.
+
+A person entering this environment had best carry nothing with him or
+risk losing it as it turns into some form which might not be
+carryable.  People have to make system shock rolls every turn, for the
+stresses will tear even the mightiest hero apart, given time.
+
+The material component of this spell is a Wild Magic area, which is
+consumed by the spell.  The area of effect fills the area previously
+formed by the Wild Magic area.
+
+The one Chaos Environment in my campaign was formed to protect an
+artifact that caused as much harm as good.  A lesser magic item would
+have eventually been destroyed by the constant polymorphing and
+impacts.  All objects will revert to their original form if they can
+get out of the area of effect.
+
+------------------------------------------------------------------------
+Create Mummy (Necromancy)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: Permanent
+Casting Time: 4 hours
+Area of Effect: One corpse
+Saving Throw: None
+
+This spell creates one mummy from the corpse of a human of at least
+seventh level fighting ability. The mummy follows orders to the limit
+of its low intelligence, but it must remain within one mile of its
+place of origin, so it is primarily useful only as a guardian. The
+corpse of the potential mummy must be properly embalmed with the
+appropriate proficiency (q.v.).
+
+------------------------------------------------------------------------
+Create Undead (Necromancy)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: Permanent
+Casting time: 1 day
+Area of Effect: One human corpse
+Saving throw: Special (see below)
+
+The material components of this spell are a human corpse (not older
+than 3 days), myrrh (500 GP worth) and a special balm made of certain
+rare herbs, personally prepared by the necromancer. Ingredients for
+this balm cost 500 GP, and one uninterrupted week spent by the spell
+caster. The balm only stays good for 3 days.
+
+This spell forces back the soul of the corpse, and turns it into either
+a wight, a spectre, or a wraith. The caster has a percentage chance
+equal to his level x 2 of choosing which is created. Otherwise, roll on
+the following table, adding the level of the caster, plus a 5 bonus if
+the caster is a necromancer specialist. Also, if the corpse was a
+0-level person, subtract 30 from the roll (if the adjusted roll is
+below 0, the spell fails and the corpse is destroyed).
+
+ 1-60	wight
+ 61-90	wraith
+ 91-00	spectre
+
+The corpse gets a saving throw vs. magic, at a level equal to the
+corpses level before death, with the following bonuses:
+
+ person was good  		+ 4
+ person was neutral		+ 1
+ person was a not-good cleric	+ 2
+ person was a good cleric	+ 4
+
+If the save is made, the corpse is destroyed and the spell fails. If
+the save is failed, the undead is created. Said undead will be under
+the control of the necromancer for one year, following any order that
+is not obviously suicidal. At the end of the year, or upon such time as
+the undead receives a suicidal order, it is freed from the
+necromancer's control and gets a save vs. magic. If it fails, it must
+leave and may never attack the necromancer unless attacked first. If it
+succeeds, it becomes free-willed, and might attack the necromancer if
+it was sufficiently mistreated.
+
+Note that after the year is up, the undead may continue to serve the
+necromancer, if it was sufficiently prosperous and receives a
+sufficient bribe. This is a GM call.
+
+A necromancer can only control 1 undead in this matter at a time. At
+the end of the year, or when the undead dies or becomes uncontrolled,
+the spell may be used again. Should this spell be used during the year,
+it will work, but the fresh undead will immediately attack the
+spellcaster.
+
+Finally, a created undead starts out the same alignment as the corpse
+from which it came. However, due to what these creatures must feed on
+(i.e. people), an unstoppable shift begins towards the undead's normal
+alignment. There is a 10% chance per month (cumulative) of the
+alignment decaying one step. After a switch, the chance returns to 0
+and begins building again.
+
+------------------------------------------------------------------------
+Deflect Magic Weapon Attacks (Abjuration)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: Special
+Casting Time: 7
+Area of Effect: One creature
+Saving Throw: None
+
+This spell is similar to the fifth level spell deflect normal weapon
+attacks with the following exceptions: the forcefield's AC is 2 and it
+has 7 hit points per level of the caster. It affects all attacks made
+via a magical or non-magical melee or missile weapon. A non-magical
+weapon cannot affect or penetrate the barrier in any way. If a magical
+weapon strikes the barrier, the target's saving throw (to determine
+penetration or deflection) has a penalty applied to it equal to the
+bonus of the weapon (i.e. a +2 weapon that scores a hit on the barrier
+inflicts a -2 penalty on the protected creature's save). Also, if a
+magical weapon is reflected back at the attacker (when the barrier is
+not hit), the weapon bonus is not applied to the reflected attack.
+
+In addition to its other powers, this spell may affect magic missile
+attacks. It does not automatically negate them as a shield spell does,
+but causes the attacker to make a "to hit" roll vs. the barrier. If the
+attack succeeds, the barrier automatically takes damage (the recipient
+earns no save); if the attacker fails to score a hit, the magic missile
+has no effect. Other spells will pass through the barrier, without
+affecting it. The material component for this spell is a powdered
+black sapphire which is consumed when the spell is cast.
+
+------------------------------------------------------------------------
+Delayed Blast Snowball (Evocation)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 10" + 1" per level
+Components: V, S, M
+Duration: Special
+Casting Time: 7
+Area of Effect: 2" radius sphere
+Saving Throw: 1/2
+
+This spell creates a snowball (q.v.) with +1 on each of its dice of
+damage. The spell will not release its burst for 1 to 50 segments
+(1/10 to 5 rounds), according to the command upon casting. In other
+respects, this spell is the same as the third level spell snowball [cf.
+Delayed Blast Fireball]
+
+------------------------------------------------------------------------
+Electrosphere (Evocation)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 1" per level
+Components: V, S, M
+Duration: Instantaneous
+Casting Time: 7
+Area of Effect: 1/4" per level radius sphere
+Saving Throw: 1/2
+
+This spell is a more potent version of the second level spell
+Shocksphere. This spell is almost identical in its effects, but the
+effects are much more spectacular, and far more deadly.
+
+When this version of Shocksphere explodes, the little Lightning Bolts
+are much more powerful, being able to push or throw objects around
+during the segment that the spell lasts. Therefore, not all the damage
+is caused by the electricity, one quarter of the damage caused is
+caused by the force of the blows of the Lightning Bolts (this means
+that creatures with protection from electrical attacks will still take
+damage from this spell).
+
+If there is a creature which is the target for the spell, its saving
+throw will be at -4 and it will take (2-8 + 1 per level of the caster)
+damage from the lightning when the spell "explodes". All other
+creatures in the area of effect will take 2-7 damage per level of the
+caster in hit points if they fail a normal saving throw vs. spells. If
+a creature does fail its saving throw, then all their objects must make
+their saves vs. the worst of either lightning or crushing blow.
+
+If this spell expands in an area which is smaller than its diameter, it
+will conform to the volume it occupies, filling a volume of ((caster's
+level * 0.25)3 * 4 * c / 3) cubic feet.
+
+Unlike Shocksphere, this spell will do structural damage to any
+man-made or natural structure in the area of effect. It will do 1 point
+of structural damage to wooden constructions, half that to those of
+soft stone, and only one quarter that to those of hard stone per level
+of the caster.
+
+The material components of this spell is a small chunk of flesh from a
+blue dragon, or any other similarly powered creature that uses
+electricity for its principal attack, and a small wand of gold (50 GP
+value). Both these materials disappear after the spell is cast.
+
+------------------------------------------------------------------------
+Eye of the Beholder (Evocation)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: Special
+Components: V, S, M
+Duration: Special
+Casting Time: 7
+Area of Effect: Special
+Saving Throw: Special
+
+In order to cast this spell, the wizard must have in his possession, an
+eye stalk from a beholder. The stalk is pointed at the intended
+victim(s), and after the incantations are complete, one of 10 possible
+effects shoot forth from the eye stalk towards the target(s).  The
+exact result (including saving throws, range, duration, etc.) are
+determined at random from among the 10 functions of a beholder's eye
+stalks, as given in the Monstrous Compendium. The eleventh eye function
+(anti-magic ray) is never one of the spell results.
+
+The only material component for this spell is the eye stalk, which is
+used up when the spell is cast. In order to achieve different effects,
+an eye stalk from a spectator, gauth, or an eye of the deep may be
+substituted for the beholder's stalk.
+
+------------------------------------------------------------------------
+Fellstar's Flame Fog (Evocation)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 10 yards
+Components: V, S, M
+Duration: 1 round per level
+Casting Time: 7
+Area of Effect: 40' wide, 20' high, 20' deep cloud
+Saving Throw: 1/2
+
+This spell creates a fog resembling that produced by a Cloudkill spell;
+the cloud may be created up to 10 yards away, and moves 10 feet per
+round as directed by the caster; strong winds will move the cloud in
+another direction, but will not disperse it, nor will they move the
+cloud back towards the caster.  Thick vegetation will break up the
+cloud in 3 rounds.
+
+The fog itself is not harmful, and has no other affect besides
+obscuring vision. During any round after the spell is cast, the caster
+may ignite the fog with a single word. When this is done, the entire
+fog cloud becomes a roaring sheet of flames inflicting 5d10 points of
+damage, plus 1 point per level of the caster (up to a maximum of
+5d10+20) to those caught inside. A successful save vs. spell reduces
+the damage by half. Those victims who fail their saves must roll for
+all their possessions vs. magical fire; those items that fail their
+saves are destroyed.
+
+If any type of fire comes into contact with the fog cloud, it ignites
+immediately; if a Fireball, or similar spell, is cast into the cloud,
+the damage inflicted is cumulative, and a saving throw for each effect
+must be made separately.
+
+The material components for this spell are several strands of hair from
+a cloud giant, and the scales of a red dragon; all components are
+consumed when the spell is cast.
+
+------------------------------------------------------------------------
+Jamye's Flesh to Toast (Alteration)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 10 yards
+Components: V, S, M
+Duration: Permanent
+Casting Time: 7
+Area of Effect: One creature
+Saving Throw: Negates
+
+This spell turns the flesh of any creature affected into a golden-brown
+piece of hot yummy toast.  Only the victim is affected; anything the
+victim may be wearing (or non-organic items ingested) will not be
+turned into toast.  The resultant toast is subject to any forces normal
+toast is subject to (slicing, buttering, eating, whatever).  One cubic
+foot of toast will satisfy the appetites of four humans, although they
+may get tired of toast way before then.
+
+The material components of this spell are a small pat of butter or
+cream cheese, and 1 foot of steel wire.  The steel wire will not be
+consumed in the casting.
+
+Note that this spell is not reversible.  The effects can only be
+countered with a Wish or Limited Wish spell.
+
+------------------------------------------------------------------------
+Jamye's Improved Armour Reversal (Abjuration)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: 1 round per level, minus 7 rounds
+Casting Time: 7
+Area of Effect: Creature touched
+Saving Throw: Special
+
+This spell is an improved version of the fifth level "Jamye's Armour
+Reversal" spell.  With this spell, bonuses "to hit" by the attacker are
+added to the die roll (thus working against the attacker) instead of
+subtracted.  For example, a 10th-level fighter attacking an AC 5 mage
+with Improved Armour Reversal would need a die roll of 5 or less to hit
+the mage; if the fighter had a Strength of 17 (+1 "to hit") and a +2
+weapon, she would now need a die roll of 2 or less (5 minus 1, minus 2)
+to hit the mage.
+
+This spell also affects missile weapons in the same way it affects
+melee weapons, unlike the fifth level spell.  Also, whereas Armour
+Reversal can be dispelled by a subsequent casting of Improved Armour
+Reversal on the same subject, Improved Armour Reversal cannot be so
+dispelled by the weaker spell.  If Armour Reversal is cast upon the
+subject of a previous Improved Armour Reversal spell, the Armour
+Reversal spell is wasted and has no effect.
+
+The spell components for this spell are a small magnet, a piece of
+black silk of no less than 20 GP value, and a diamond of no less than
+250 GP value.
+
+------------------------------------------------------------------------
+Llewllynn's Wall of Force (Evocation)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 3"
+Components: V, S, M
+Duration: 1 round per level
+Casting Time: 7
+Area of Effect: 10 square feet per level
+Saving Throw: None
+
+This spell is equivalent to the fifth level mage spell wall of force
+(q.v.) in all respects save one: the caster is able to manipulate the
+force wall. The following variations are possible:
+
+Version 1: The mage can cast the wall in a hemispherical or spherical
+shape around himself with himself as the centre point. The mage can
+then move about and the wall will move with him. This version is tinted
+red.
+
+Version 2: The mage can cast the spell as a wall (2-dimensional
+barrier) and then move in a direction with the wall moving 1" to 3" in
+front of him. The wall will always be in front of the caster, and will
+turn as he turns. This version is tinted blue. Note that this version
+cannot be cast horizontally.
+
+The material component for version one is a pinch of diamond dust and a
+pinch of ruby dust. The material component for version two is a pinch
+of diamond dust and a pinch of sapphire dust.
+
+------------------------------------------------------------------------
+Magic Quench (Abjuration, Alteration)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 5 feet per level
+Components: V, S, M
+Duration: Permanent
+Casting Time: 1 round
+Area of Effect: 1-foot per level radius sphere
+Saving Throw: None
+
+This spell creates a sphere that has all the properties of a Forgotten
+Realms (tm) dead magic area (see the FR Sourcebook for details).  The
+area of dead magic is permanent until destroyed (it may only be
+destroyed as per a dead magic area).  The sphere of dead magic is
+non-mobile.
+
+The material component for this spell is a pint of blood from any
+recently slain magic-using creature.  The blood is consumed when the
+spell is cast.
+
+------------------------------------------------------------------------
+Mind Find (Divination)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: 1 round per level
+Casting Time: 1 round
+Area of Effect: 100' radius sphere
+Saving Throw: None
+
+This is an extremely powerful version of true sight combined with a
+form of clairvoyance. Like true sight, it allows the caster to exactly
+locate people that are: displaced, invisible, polymorphed, change,
+enchanted, or illusioned. However the spells effects the mind, not the
+eyes of the caster, so the caster can in addition see through fog,
+around corners, trees, etc. (anything within 100' radius).
+
+About the only things that will block the penetration power are the
+Non-detection spell (non-detection gets a save to see if the mind find
+worked on him), Lead walls, or walls of force. The spell also confers
+the ability to perceive minds in 360 degrees on all axis, X, Y and Z.
+Thus the caster could locate the mind of someone 80 feet above then and
+behind them, needless to say backstabbing someone who knows exactly
+where you are is impossible.
+
+However, this spell cannot locate object or things without minds, thus
+it could locate anything that had less than zero intelligence. The
+drawback to this spell is that it makes the caster susceptible to
+mind-effecting spells i.e. save at -2.
+
+The material component of this spell is a whole mind flayer brain.
+
+------------------------------------------------------------------------
+Nearthia's Combat Spell (Abjuration, Alteration, Divination)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: 2 rounds per level
+Casting Time: 7
+Area of Effect: Caster
+Saving Throw: None
+
+This spell prepares the fighter/mage for combat. It provides the
+benefits of the following spells:
+
+ Strength	Detect Invisibility
+ Shield		Minor Globe of Invulnerability
+ Fly		Protection form Normal Missiles
+
+It also provides 25% magic resistance and 4 temporary fighter levels.
+(i.e. +4 to hit and 40 hit points). This spell can only be cast by
+fighter/mages (or tri-classed with both classes).
+
+------------------------------------------------------------------------
+Nearthia's Spell Vortex (Evocation)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: 1 round per level
+Casting Time: 1 round
+Area of Effect: One vortex around the caster
+Saving Throw: None
+
+Once this spell is cast a faintly visible 7-10 foot tall vortex appears
+around the caster, centered on his feet. The vortex is a container for
+spell energy. It can store up to 1 spell level per level of the
+caster.  The caster may place any spell he wants into the vortex. He
+also has a chance equal to his magic resistance of catching a spell
+cast at him with the vortex.
+
+After the spell's energy is stored in the vortex, the caster may use
+the energy to fire other spells from the vortex. He may only fire
+spells he has "taught" the vortex though (the ones he put into the
+vortex himself).  Shooting a spell from the vortex may be accomplished
+once a round, plus one may be fired at anyone who casts a spell at the
+mage that round. The caster may do anything except spell casting and
+still be able to fire all his spells each round.
+
+------------------------------------------------------------------------
+Pobithakor's Placer (Alteration, Divination)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: Special
+Components: S
+Duration: Special
+Casting Time: 1/2
+Area of Effect: Special
+Saving Throw: None
+
+This spell is similar to Pobithakor's tracer for not only does it allow
+the two way scrying but the caster has the option of pulling the
+scrying creature "through" the two way portal right to the casters
+current location. The creature gets no saving throw and the process
+occurs almost instantly. The caster, unless special measures are taken,
+has no control over the creature once it arrives.
+
+This was another spell used by the paranoid mage when he felt his
+defenses being compromised.
+
+------------------------------------------------------------------------
+Prismatic Beam (Abjuration, Conjuration/Summoning)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S
+Duration: Instantaneous
+Casting Time: 7
+Area of Effect: 7" long plane, 11/2" wide at end, 1/2" wide at base
+Saving Throw: Special
+
+Like Prismatic Spray but all 7 rays hit the same target. Great for
+zapping dragons, demons etc.
+
+------------------------------------------------------------------------
+Sarius' Fire Giant Manifestation (Conjuration)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 10" + 1" per level
+Components: V, S, M
+Duration: 1 turn per level
+Casting Time: 7 turns
+Area of Effect: Special
+Saving Throw: None
+
+This spell creates a golem-like creature which the mage may direct to
+perform certain programmed actions. The creature is a temporary fire
+golem with no true intelligence and to most appears as an undead fire
+giant. The creature may be controlled up to a distance equal to the
+spell range but if it passes outside of this range, or the spellcaster
+is killed, the creature will explode in a 70' radius area doing damage
+equal to its current hit points (save vs. breath weapon for half
+damage). The creature created mimics most of the actions of a fire
+giant, having AC 3, MV 12", HD 11 + 3, HP 58, AT 1, DM 5-30, SP:
+Immune to fire, SZ: L (12'), Strength 22. The creature can fight with
+its sword only and has no ability to hurl rocks as does a normal fire
+giant. It can inflict structural damage points as a normal fire giant
+on a round to round basis (Wood: 2, Soft Stone: 1, Hard Rock: 1/2).
+
+The caster is able to direct the creature to perform 3 individual
+actions plus 1 for every two levels of experience above 14th level.
+Each change in action will cause the creature to hesitate for one round
+before working to act out the next action. Actions can be classed as
+"killing a group of orcs", "killing a group of men wearing the same
+colours or armour", "tearing down a stone wall", "pulling up a tree",
+etc. Once the final action is completed the fire giant crumbles into a
+pool of hot sulfur, effectively making a circular area 30' in diameter
+full of sulfuric acid (which will kill all vegetation in the area and
+causing 1-3 HP of damage per round to any organic creature in the area.
+Against mind affecting spells, the creature is considered to have an
+intelligence and wisdom of 3 (saving at -3 vs. these attacks). If the
+creature is charmed or controlled by a mind affecting spell the casters
+concentration is totally disrupted causing the creature to dissipate
+and any other spells the caster currently controls will become
+dispelled unless the caster has no control over the spells in question
+after casting them, and any spell the caster is currently casting will
+be disrupted.
+
+This spell requires only the slightest mental control of the caster to
+operate, allowing him to cast other spells normally that do not require
+his full concentration. Multiple castings of this spell will work, but
+all of the detrimental effects are cumulative. The material component
+of this spell is a small pouch (2" squared) of leather containing a
+patch of fresh (not dried) fire giant hair mixed with ruby dust of no
+less than 1,000 GP value. The fire giant hair may be kept fresh with a
+Preserve spell or similar effect.
+
+The source of this spell is Sarius Mendlekine.
+
+------------------------------------------------------------------------
+Sarius' Temporal Demi-Plane (Conjuration, Evocation)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 1" per level
+Components: V, S, M
+Duration: 1 hour per level
+Casting Time: 1 turn
+Area of Effect: Special
+Saving Throw: None
+
+This spell uses the magical forces of the astral or ethereal planes to
+create a small demi-plane. This demi-plane is connected to the current
+plane of the caster through a special (10' x 10') gateway which is
+invisible to all creatures except the caster unless they are able to
+use True Sight. When cast, this spell causes astral or ethereal stone
+to form into a 10' cube. This cube houses the physical structure of the
+demi-plane, but the interior is a distorted dimensional area with a
+volume equal to 10 cubic feet of space per level of the spellcaster.
+In its drab, gray interior, the demi-plane is governed by the physical
+and magical laws of the plane in which it is created (astral or
+ethereal), but does have a localised gravity which is under the control
+of the caster (normally equal to that of the Prime Material plane but
+it may be lowered all the way to 0 g at a rate of .1 g per round).
+There is no need for air and nutritional needs since characters are
+governed by the normal astral or ethereal laws. The mage may change the
+interior form, but may not decrease or increase the volume of the
+demi-plane. Volume form is changed in 10 foot cubic blocks, and it is
+impossible to make any area smaller than 10 cubic feet, though, pits
+and similar obstacles can be created. Also, the normal temperature in
+the demi-plane is 68 degrees Fahrenheit and may not be changed.
+
+A mage must touch someone for them to see and enter the gateway, but,
+once inside, anyone may freely exit the demi-plane. If someone is able
+to see the gateway through the use of True Sight, and he is a mage
+familiar with the Wizard Lock or Temporal Demi-Plane spells, he may
+attempt to enter the gateway by using his willpower to negate the need
+for the casting mage's touch. In game terms this means a successful
+percentile roll with a base 50% chance modified plus or minus 5% for
+every difference in level from the caster in an upward or downward
+progression, respectively. A mage seeing the gateway and meeting the
+stated prerequisites will automatically know that this is possible.
+Otherwise, only spells of a wish-like nature will be able to discern
+the entrance, though creatures with senses that extend into the astral
+or ethereal planes will be able to see the large block of stone that
+makes up the external surface of the demi-plane area and psionic
+characters may be able to use probability travel to gate into the
+demi-plane if they are familiar with it.
+
+The demi-plane does not allow access to the astral or ethereal planes
+unless it is destroyed, or if the mage creates the demi-plane while on
+one of these planes, in which case the entrance to the demi-plane is
+actually entered on the plane in which it resides and not a connecting
+outer or elemental plane. When the spell is initially memorised the
+caster must determine whether he will cast the astral or ethereal
+variant of this spell. It is impossible for both to be used in the same
+area of effect (on the Prime Material plane) due to conjugations of
+magic energies required in maintaining the spell.
+
+The structure containing the demi-plane is able to withstand 3 HP of
+structural damage (vs. hard stone) before it is disrupted. The ethereal
+cyclone will inflict 1-100 HP of structural damage every time it passes
+over the area of the demi-plane and the psychic winds of the astral
+plane automatically inflict damage equal to one-half the current
+structural hit points of the demi-plane's shell. The nature of the
+demi-plane causes it to stay in one spot so it may be used as a
+reference point if the spell duration is long enough (through the
+possible use of a permanency-type spell). But, no matter what spells
+are applied to the demi-plane, it will always disrupt when its
+structural hit points are brought to 0 or less. The contents of the
+demi-plane are then thrown into the plane of creation and all creatures
+must save vs. spells at -6 or be knocked unconscious for a period of
+time equal to one hour of time on the plane in question (not subjective
+time). If cast on the ethereal plane the spell duration is extended by
+a factor 10 and on the astral plane the duration is extended by a
+factor 1000. The material component of this spell is a miniature
+platinum ziggurat embedded with peridots and having a finished value of
+at least 1000 GP. The ziggurat weighs 10 GP.
+
+The source of this spell is Sarius Mendlekine.
+
+------------------------------------------------------------------------
+Sillvatar's Dragon Bite (Conjuration/Summoning)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 10' per level
+Components: V, S, M
+Duration: 1 round per 2 levels
+Casting Time: 7
+Area of Effect: One creature
+Saving Throw: None
+
+This spell is similar to Sillvatar's Dragon Claw, except it conjures a
+shadowy dragon head within spell range. The procedures for attacks are
+as per that spell, except the victims who are hit receive bite damage,
+instead of claw damage. For example, if this spell is cast using the
+material component from a white dragon, the damage inflicted by each
+successful bite is 2-16 points of damage. In addition, each attack
+receives a +2 on all "to hit" rolls.
+
+The caster may conduct 2 attacks using this spell, each of which must
+occur in a separate round. The dragon head dissipates when both attacks
+have been made, the duration expires, or the head is dispelled. The
+head is not harmed by other attacks.
+
+The material component for this spell is the teeth from any type of
+dragon; these teeth are consumed when the spell is cast.
+
+------------------------------------------------------------------------
+Stash (Alteration)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 300 yards
+Components: V, S
+Duration: Special
+Casting Time: 1 hour
+Area of Effect: 300 pounds per level
+Saving Throw: None
+
+Stores a large mass in hyperspace for an indefinite period of time
+until a command word is spoken. The object(s) in hyperspace do not
+experience passage of time so for example a small army with all its
+weapons and equipment could be stashed in time of peace and recalled
+when war started. A spellcaster can have only one Stash spell in effect
+at the same time: if he wishes to stash anything, he will first have to
+recall the items or persons previously Stashed.
+
+Only objects and willing victims are affected by this spell.
+
+------------------------------------------------------------------------
+Summon Wizard (Conjuration/Summoning)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 50 yards
+Components: V, S, M
+Duration: 4 rounds + 1 round per level
+Casting Time: 7
+Area of Effect: Special
+Saving Throw: None
+
+Within one round of casting this spell, the caster summons 1d2 wizards
+to aid him. The summoned wizards' level will be equal to 3/4 the
+caster's level, rounded down, up to a maximum of twentieth level. The
+wizards will appear anywhere within the spell range as desired by the
+caster, and will serve the caster as per monsters summoned via a
+monster summoning spell. There is an 80% chance of summoning a mage,
+and a 20% chance of summoning a specialist (determine school
+randomly).  Equipment and abilities are determined randomly. The
+material component for this spell is an ornately carved, gem-encrusted,
+wooden staff (worth at least 100 GP), which is consumed when the spell
+is cast.
+
+------------------------------------------------------------------------
+Uldark's Radiant Bolt (Conjuration/Summoning)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 100 yards + 5 yards per level
+Components: V, S, M
+Duration: Special
+Casting Time: 7
+Area of Effect: One creature per bolt
+Saving Throw: 1/2
+
+When this spell is cast, a small interdimensional connection opens
+between the quasi-elemental plane of radiance and the caster's plane;
+through this opening, a 1 foot diameter glowing sphere appears and
+slowly hovers around the caster. This sphere contains all colours of
+the spectrum; this sphere will last for 2 rounds per level of the
+caster; if not used to its full potential at that time, the sphere
+dissipates.
+
+During any round which the sphere is in effect, the caster may
+discharge a bolt of one colour of the spectrum; only one such attack
+may be made in a single round, and the sphere may discharge only one
+bolt per colour; once used, that colour disappears from the sphere.
+When all colours have been discharged, or when the duration expires,
+the sphere dissipates. Each bolt may affect one creature, and each
+colour has a unique composition as follows:
+
+ colour	composition	item save vs
+ ------	-----------	-------------
+ red	fire		magical	fire
+ orange	poison		n.a.
+ yellow	acid		acid
+ green	gas		n.a.
+ blue	lightning	lightning
+ indigo	cold		cold
+ violet	force		crushing blow
+
+All the bolts do an identical amount of damage: 1d6 + 2 per level of
+the caster.  A successful saving throw vs. spell reduces the damage by
+half. If this save fails, the victim's possessions must save vs. the
+indicated composition (if applicable) or be destroyed.
+
+There is a chance that an extraplanar creature may enter through the
+opening whenever this spell is cast. The chance of this occurring is:
+20% - 1% per level of the caster (to a minimum of 1%). Any creature
+entering the caster's plane will normally be hostile to the caster.
+
+The material component for this spell is a crystal or glass prism;
+light is sent through the prism to create a spectrum when the spell is
+cast. The prism is consumed with the casting of the spell.
+
+------------------------------------------------------------------------
+Valcon's Spectral Army (Illusion/Phantasm)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 200 yards
+Components: V, S, M
+Duration: Special
+Casting Time: 2 turns
+Area of Effect: Special
+Saving Throw: None
+
+Using this spell, the caster may create an army of semi-real humanoids;
+any type of humanoid may be chosen, but all soldiers must be of the
+same type.  Because the army is somewhat real, they may not be
+disbelieved. The army is made up of one or more "units," each of which
+is comprised of 10 infantry soldiers. The caster may create a number of
+units according to the following table:
+
+ level	# units
+ -----	-------
+ 14-15	2
+ 16-17	3
+ 18-19	4
+ 20+	5
+
+The army may appear anywhere within spell range as desired by the
+caster. The army must not stray too far from the caster; they may move
+up to a distance of 20 yards per level of the caster. This spell will
+last until the caster wishes it to end, or until all units of the army
+are destroyed; however, a single caster may not have more than two of
+these spells in effect at any one time; any additional castings of the
+spell will fizzle and be wasted.
+
+Each unit always moves and attacks as a single entity; it will never
+split up, or act independently, as each unit is a single component of
+the illusion.  The unit will have an armour class equal to: 22 -
+caster's level, and hit points equal to 2 times the caster's level
+(i.e. a 16th level caster, may create 3 units, each having an AC of 6
+and 32 hit points). All hits on the unit count against the units' hit
+point total; an individual soldier may not be destroyed, even if all
+hits are on a single target. Once the units' hit point total is
+exceeded, all 10 soldiers in that unit are destroyed. Besides melee
+attacks, the army may be dispelled, although only one unit may be
+dispelled per dispel attempt.
+
+Each unit will be equipped with armour appropriate to their AC, and
+will be armed according to what material components are used; the
+caster may provide one or more weapons for every unit he creates; the
+units will then be armed with the corresponding weapon(s).  Any number
+of weapons may be given to a single unit, and each unit may be equipped
+differently from the rest; the only stipulation is that the caster must
+have the appropriate number of the desired weapons available when the
+spell is cast (in the case of missile weapons, the missiles themselves
+need not be used as a component; the missile weapon suffices in this
+case). Continuing the example of the 16th level caster, the caster may
+elect to equip all 3 units with longswords only (at the cost of 3
+longswords as a material component) or may wish to diversify by
+equipping one with long bows and short swords, one with spears, and the
+third with halberds; (at the cost of 1 each of a long bow, short sword,
+spear, and halberd as a material component).
+
+Since a unit always acts as a group, it may only make one or two
+attacks per round, unless equipped with a weapon that normally allows
+multiple attacks (i.e. a unit of long bow archers would receive 2 or 4
+attacks per round). If the unit makes only one melee attack in a round,
+it will inflict 1d8 points of damage if successful; if two melee
+attacks are made, each will inflict 1d4 points of damage if a hit is
+scored; the amount of damage does not depend on the type of weapon used
+- all cause the same amount of damage.
+
+Missile attacks cause 1d4 points of damage if the minimum number of
+attacks are made, or 1d2 points of damage if the maximum number of
+attacks are conducted (i.e. a unit using long bows would do 1d4 points
+of damage per hit if two attacks are made, or 1d2 points of damage per
+hit if making 4 attacks).
+
+Hurled weapons are not allowed by this spell. Under no circumstances
+may these illusionary armies use any special attack or defense forms
+normally employed by their race (i.e. an illusionary army of trolls
+will not regenerate lost hit points). Strength, dexterity, and similar
+bonuses also do not apply.
+
+In addition to the weapons required for material components, the caster
+must also have a suit of armour (and a shield, if desired) that
+comprise the appropriate armour class for the units. One suit (and
+shield, if used) is sufficient for all units created by this spell. All
+material components are consumed when the spell ends.
+
+------------------------------------------------------------------------
+Wolldin's Fearstalker (Illusion/Phantasm)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 10 yards per level
+Components: V, S
+Duration: Special
+Casting Time: 7
+Area of Effect: One creature
+Saving Throw: Special
+
+This spell creates an illusionary creature in the mind of its victim
+much the same as a Phantasmal Killer spell. The "fearstalker" appears
+as a shadowy creature of a vaguely humanoid shape (only the victim and
+the caster can see the creature). Once cast, the fearstalker will
+tirelessly pursue its target; if the victim does not succeed in making
+a disbelieve check (this intent must be specifically stated) it will be
+attacked by the fearstalker.
+
+The fearstalker has a movement rate of 24, has HD equal to half the
+caster's level (rounded down), has 2 attacks (2-12/2-12), and can be
+hit only by +1 or better weapons. It is immune to charms and other
+mind-affecting spells, but is susceptible to most other spells and
+magic attacks.
+
+Once the battle has been joined, nothing short of the death of one of
+the combatants will end it. Rendering the victim unconscious will not
+help, as the fearstalker will enter the target's dreams and the battle
+will continue normally. If the caster of the spell is slain or rendered
+unconscious, the current battle will continue normally, but the
+fearstalker will not be able to return at a later time (see below).
+
+If the victim of this spell is reduced to 0 hit points by the
+fearstalker, he must make a systems shock roll; if this roll fails, the
+victim dies and the spell ends; if it succeeds, the target only
+believes he has died and falls into a coma for 2-24 hours. Only a Heal
+spell or a Wish will rouse the victim from this coma. If the target
+reduces the fearstalker to 0 hit points, it will vanish instantly.
+However, in this case, the fearstalker is not actually destroyed; it
+will reappear in 4-24 hours (at full strength) to again attack its
+victim (the fearstalker will not be able to return if the caster has
+been slain, or if he was unconscious at the time of the fearstalker's
+defeat in the previous battle).
+
+The only way to permanently end this spell (short of the victim's
+death) is to make a successful disbelieve check. The victim is allowed
+one such roll each time the fearstalker returns after being defeated,
+as well as when the spell is first cast. This disbelieve check has the
+same modifiers applied to it as for the Phantasmal Killer spell.
+However, the wearer of a Helm of Telepathy may not turn the fearstalker
+upon the caster. If the victim is asleep or otherwise unconscious when
+the fearstalker returns, the battle will take place in the target's
+dreams, and the disbelieve check is made with a -2 penalty.
+
+------------------------------------------------------------------------
+Zandare's Twist (Alteration, Enchantment)
+Level: 7
+Source:  Great Net Spellbook, V3
+Range: 10' per level
+Components: V, S, M
+Duration: Permanent
+Casting Time: 7
+Area of Effect: Special
+Saving Throw: Negates
+
+By means of this spell the caster changes the target creature,
+effectively, inside out. The organs are outside the body and the skin
+is inside. GM's insert your own really graphic descriptions here... The
+spell caster must have a small leather pouch for the casting.  At the
+end of the seven segments the caster thrusts his hand into the bag and
+violently pulls the bag inside out.  Now the target is either painfully
+turned inside out, or the caster looks like a total fool.  The spells
+affects one medium size creature or two small creatures.  Large
+creatures receive a +3 to their save.
+
+Note that clothing, armour, etc. are in the inside also.

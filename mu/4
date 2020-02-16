@@ -1,0 +1,2173 @@
+Acid Spray (Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: Instantaneous
+Casting Time: 4
+Area of Effect: See below
+Saving Throw: 1/2
+
+When this spell is cast, it causes a cone shaped spray of acid to
+extend outwards from the casters hand. The length of the cone is 1/2"
+per level of the caster and the cone terminates with a circular area
+with a radius of 1/8" per level of the caster. The start of the cone is
+a circular area of 1' radius.
+
+The damage from the acid is 1d4 + 1 per level of the caster.
+
+The material component of the spell is a vial of acid which is thrown
+in the direction which the cone will go.
+
+------------------------------------------------------------------------
+Alcoreax's Icetrail (Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: 1 round per level
+Casting Time: 4
+Area of Effect: See below
+Saving Throw: Negates
+
+This spell creates a wave of hardened ice which the caster actively
+directs. After casting, the wizard simply taps the ground to activate
+the spell. The wave of ice begins where the caster taps the ground,
+and reaches its full dimensions after advancing only 10 feet. It
+travels at a speed of 40 feet per round. The crest of the wave is 10
+feet high and 15 feet wide; after the crest of the wave has passed, the
+height of the remaining "trail" is only 3 feet high.
+
+Creatures coming into contact with the crest suffer 2d6 points plus 1
+point damage per level of the caster, or half this amount if the
+creature is cold-using (in general, cold-dwelling creatures take half
+damage from this spell, rounded down, and cannot suffocate as a result
+of this spell). In addition, creatures of less than large size must
+save against paralysation or be buried under the crest. Buried
+individuals take an additional 1d3 points of cold damage each round and
+must initially make another save against paralysation or start to
+suffocate under the ice (use the rules for drowning). Trapped
+creatures may break free, taking 1 more point of damage per level of
+the caster from sharp ice.
+
+The crest of the wave can be disrupted by 30 or more points of fire
+damage, or negated by a wall of fire in any case. At the end of the
+spell duration, the crest of the ice wave immediately loses all
+momentum and melts; the spell will cause no more damage, and trapped
+creatures can easily break free taking no damage. The material
+components for this spell are a steel pin and a glass of icewater.
+
+Alcoreax is the headmaster of Talarin Niulivius, one of the better
+magical schools on the continent of Niulivia. Alcoreax's Icetrail is
+the only spell he has researched. This one took him over five years to
+develop.
+
+------------------------------------------------------------------------
+Alpha's Acid Rainstorm (Conjuration/Summoning)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 240 yards
+Components: V, S, M
+Durations: Instantaneous
+Casting Time: 5
+Area of Effect: 30' x 30' square
+Saving Throw: 1/2
+
+This spell, which functions only out of doors, causes thin streams of
+hissing violet acid to fall within its area of effect.  All within the
+area must save vs. spells or suffer full damage.  The spell inflicts
+1d8 per two levels of the caster (rounded up).  All exposed items in
+the area must also save vs. acid or be destroyed.
+
+Characters under heavy cover which is not destroyed by the acid are
+fully shielded from the effects of the spell.  The acid, once it
+strikes the ground, harmlessly disappears.  The material component for
+the spell is a small vial of aqua regia and a strip of zinc.
+
+------------------------------------------------------------------------
+Alpha's Acid Resistance (Abjuration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: Special
+Casting Time: 1 round
+Area of Effect: Creature touched
+Saving Throw: None
+
+This spell grants the subject complete immunity to acid, up to a
+point.  The spell's basic duration is 10 rounds per level of the
+caster.  However, for every point of acid damage that would have been
+suffered by the character (after saving throws and any other
+protections have been considered), the duration of this spell is
+reduced by one round for every point of acid neutralised by the spell.
+This spell also protects the subjects equipment from needing to make
+any Item Saving Throws vs. acid for as long as the spell is in effect.
+The material component is a small glass vial containing lye and water.
+
+------------------------------------------------------------------------
+Alpha's Ball Lightning (Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 10 yards + 10 yards per level
+Components: V, S
+Duration: 4 rounds
+Casting Time: 5
+Area of Effect: Special
+Saving Throw: 1/2
+
+The caster of this spell can create one to four spheres of glowing
+electrical energy.  These spheres resemble Dancing Lights (q.v.), and
+the caster can control them in the same way.  The spheres can be moved
+up to 120' per round.  Each ball is about 5' in diameter, and any
+creature(s) approaching within 5' will dissipate that ball's charge.  A
+save vs. spells results in half damage, indicating that contact was
+across an air gap.  Note that more than one creature approaching within
+5' in a single round can be affected by the ball is that occurs.
+
+ The charge values are:
+
+ 1 lightning ball	4d12
+ 2 lightning balls	5d4 each
+ 3 lightning balls	2d6 each
+ 4 lightning balls	2d4 each
+
+------------------------------------------------------------------------
+Alpha's Chill of the Void (Alteration, Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: 1 round
+Casting Time: 5
+Area of Effect: 20' wide, 5' per level long path
+Saving Throw: None
+
+This spell brings forth a wave of supernatural cold, rolling forth from
+the caster's outstretched arms to the maximum area of effect.  Its cold
+vacuum kills all normal vegetation in the area except for trees, which
+have a 50%-100% chance to survive (DM's discretion, based on size and
+native environment).  This cold inflicts 3d4 damage and the vacuum an
+additional 3d4 to all living creatures within the area of effect.
+Vegetable and fungoid monsters suffer double damage from this spell.
+The material component is a piece of ice.
+
+------------------------------------------------------------------------
+Alpha's Elemental Form (Alteration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: Special
+Casting Time: 1 turn
+Area of Effect: One creature
+Saving Throw: None
+
+Use of this spell enable the spellcaster to transform the matter of a
+creature's body into the stuff of a particular elemental plane.  The
+elemental form enables the character to engage in normal combat with an
+elemental of the same or opposite form (i.e. water would allow combat
+vs.  water or fire elementals), or an elemental creature, without
+needing a magical weapon to hit.  It also provides protection vs. the
+same element as if a ring of warmth (+2 on saves, -1 per die of damage,
+regenerate 1 HP of elemental-caused damage per turn).  The subject can
+also exist without danger on the appropriate elemental plane, and can
+move normally there.  It does not empower the subject with perceptions
+not normally possessed (e.g. seeing through the rock of elemental
+earth), but it does prevent elemental damage.  A character possessing a
+ring of elemental command who assumes Elemental Form of the same type
+gains the cumulative effects of both, and IS empowered with senses on
+the appropriate plane as if in normal air.
+
+If this spell is cast on the prime material, the spell will last 1 turn
+per level of the caster.  If cast on the appropriate elemental plane,
+or in the border Ethereal of that plane, it will last 12 turns per
+level.  If cast while on an elemental or para-elemental plane different
+from the form assumed, start with the base of 12 turns per level and
+halve the duration for each plane removed.  An Elemental Form in
+opposition to the plane the caster is on (air vs. earth, fire vs.
+water) cannot be assumed at all.
+
+The material component is a small amount of the appropriate element on
+hand (a handful of clay or earth or a torch flame will suffice).
+
+------------------------------------------------------------------------
+Alpha's Firefall (Alteration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 10 yards per level
+Components: V, S, M
+Duration: Special
+Casting Time: 4
+Area of Effect: Special
+Saving Throw: Special
+
+This spell is an improved version of the 2nd level Pyrotechnics spell
+(q.v.), specifically the "fireworks" application of that spell.  That
+portion of the spell functions exactly as the Pyrotechnics spell does
+with respect to duration, area of effect, saving throw, and the
+blinding effect created.  However, the "fireworks" created by this
+spell are more along the lines of a geyser of brightly burning liquid
+fire, arcing upwards approximately 60' into the air and raining down
+within a 30' area surrounding the perimeter of the basic fire source.
+All in this area of effect suffer 2d6 fire damage with no saving throw
+allowed.  Further, a central prominence of flame is thrown upwards by
+this spell, and the caster may direct this column of fire at a single
+target within 60' of the fire source.  This plume of fire will inflict
+4d10 damage to the victim, although a saving throw vs. breath weapon is
+possible to halve this damage.
+
+The liquid fire continues to burn during the following round, under the
+same conditions as during the first round, although the fire is less
+intense and causes only half the damage caused during the first round.
+Combustibles in the area of effect must save vs. normal fire (if struck
+only by the burning spray) or magical fire (if the victim of the
+central plume fails his saving throw or if the central plume is
+directed at an inanimate object) to avoid being set afire.  A creature
+who is within the area of the spray who is targeted by the central
+plume will not also suffer fire damage from the spray, as this minor
+flame is all but lost in the fury of the central prominence.  The spray
+does not fall within the area of the original fire source, but only
+within 30' of the perimeter of the fire source.  An aerial creature
+flying within 60' above the rising geyser of liquid fire is affected
+just as a creature on the ground would be, and may also be targeted
+with the central plume, if the caster so desires.  The material
+component for this spell is a lump of pitch mixed with sulfur,
+saltpeter, and magnesium, as well as an existing fire source.
+
+------------------------------------------------------------------------
+Alpha's Flames of Falroth (Alteration, Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 10 yards
+Components: V, S, M
+Duration: 1 round per level
+Casting Time: 1 round
+Area of Effect: Special
+Saving Throw: Special
+
+This spell conjures an extra-dimensional black flame to surround a
+single object or creature within range.  This fire has exactly the
+opposite effect of normal fire, in that it restores creatures or
+objects burned to destruction by fire or acid to their original state.
+This will not restore life to a person slain by a Fireball spell, but
+it will restore the body to full health, such that a Raise Dead spell
+will bring the character back to full physical health (though an amount
+of time equal to the time dead must be spent recovering from the
+psychological shock).  Similarly, it will not restore enchantment to a
+once-destroyed magic item, though a Limited Wish spell is capable of
+restoring the lost enchantment to the item reconstructed by the Flames
+of Falroth.
+
+In order to restore an item or creature, the target must fail a saving
+throw of the same type that resulted in its destruction.  Hence, plate
+mail destroyed by the breath of a black dragon must fail a saving throw
+vs. acid, and an adventurer felled by a Fireball must fail a save vs.
+spells.  For effects against which there is no save (e.g. Wall of
+Fire), assume the save to be as against breath weapon for creatures or
+magical fire for items.  It is thus more difficult to restore items
+that were more difficult to destroy in the first place.  One such save
+may be attempted each round, and as many saves as desired may be
+attempted during the use of this spell.  No object can ever be affected
+by this spell after the spell has been used on it once, whether or not
+it was successful.  Once the save is failed, the object will take 2
+rounds to be fully reconstructed from its remains.  The Flames of
+Falroth may be moved to another object or creature at any time during
+the spell's duration, with 1 round of concentration on the part of the
+caster.
+
+The Flames of Falroth are very hostile to ordinary fire.  They may be
+used as a fire extinguisher or sorts, and will extinguish a 10' cube of
+normal flame every round.  Magical fire spells must be checked as per
+Dispel Magic, but multiplying the caster's level by 2 for the purposes
+of determining whether the target spell has resisted the effects of the
+Flames of Falroth.  If this Dispelling attempt is unsuccessful, the
+Flames of Falroth will vanish back from whence they came.
+
+If cast at an elemental fire creature of any sort, the Flames of
+Falroth will automatically cause 6d6 damage to that creature.  After
+this initial attack, the target creature may make a save vs. spell at
+-3.  If successful, the Flames disappear without causing further harm.
+If failed, however, the Flames continue to attack the creature's very
+substance, causing 3d6 damage every round.  A new saving throw is
+allowed each round, the chance to save improving by 1 each round (-2
+after the second round, then -1, etc.).  This continues until the
+creature is dead, the caster moves the flames away (after which time
+that creature will no longer be affected by the Flames of Falroth), or
+until the spell expires or a save is made--in both of these cases, the
+Flames disappear.
+
+A fire-using or dwelling creature that uses fire but is not native to
+the Elemental Plane of Fire (e.g. fire giant, red dragon, chimera) will
+not be harmed by the Flames of Falroth, but any external fire powers
+(fire breath, spells, immolation, etc.) will cause only half normal
+damage, as their effectiveness is mitigated by the Flames.  The
+material component is a bit of green wood, a handful of ashes, a smoky
+quartz crystal, and a piece of obsidian.
+
+------------------------------------------------------------------------
+Alpha's Hunting Pack (Conjuration/Summoning)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 30 yards
+Components: V, S, M
+Duration: 5 rounds per level
+Casting Time: 1 round
+Area of Effect: Special
+Saving Throw: None
+
+This spell summons into the caster's vicinity a pack of canines who
+will fight on behalf of the caster, if such is required.  The
+composition of the pack will be as follows:
+
+ 01-10	4-16 jackals
+ 11-60	3-12 wild dogs
+ 61-90	2-8 wolves
+ 91-00	1-4 dire wolves
+
+The pack will follow commands to the best of its ability, so long as
+they are relatively simple (attack, return, heel, etc.).  If attacked
+by the caster or his fellows, all creatures summoned will instantly
+disappear.  The hounds can track as well as a 5th level ranger, and can
+be commanded to perform this activity if it is requested of them (such
+as by allowing them to smell an article of clothing from the creature
+to be tracked, etc.).  The hounds will arrive 1-10 rounds after the
+spell is cast.  The material components are a piece of fresh, uncooked
+meat and a finely crafted silver or ivory hunting horn, worth not less
+than 100 GP, which must be sounded during the casting of the spell.
+
+------------------------------------------------------------------------
+Alpha's Rainbow Blast (Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: Instantaneous
+Casting Time: 4
+Area of Effect: 1' wide, 10' + 5' per level long beam
+Saving Throw: Negates
+
+This spell is very much like the second level Rainbow Beam spell, but
+is much more powerful.  Besides a slightly larger area of effect, and
+the fact that a solid object will not stop the beam unless larger than
+2' wide and formed of solid stone or some such similar dense material,
+i.e.  the beam is not stopped by mere flesh, even if armoured, but
+would be stopped by a stone wall.
+
+The spell does 2-7 (1d6+1) points of damage per level of the caster.
+The swirling, coruscating tendrils of multi-hued light also have
+properties as listed under the Rainbow Beam spell.  A target resistant
+to one or more of these forms of attack takes -1 point of damage per
+die per attack that it is resistant to.  The obverse applies for
+creatures that are particularly vulnerable to a certain form of attack
+(e.g. a frost giant is immune to cold, but is not particularly
+vulnerable to fire, so it would take -1 point of damage per die.  A
+green slime, vulnerable only to fire and cold, would take -5 points of
+damage per die.)  The indigo (holy water) beam does normal damage
+except to creatures affected by unholy water (paladins, lammasu, etc.,
+who are considered as being resistant), and those affected by holy
+water (undead, demons, etc., who are considered as specifically
+vulnerable).
+
+The victim is entitled to a saving throw, which, if successful,
+indicates that the beam has missed.  It may hit another target,
+though.  Also, if a target is struck by the beam, he must save vs.
+petrification or be struck in the face and blinded for 3-6 rounds.
+
+The material component for this spell is a small diamond worth not less
+than 100 GP.
+
+------------------------------------------------------------------------
+Alpha's Ray of Paralysis (Alteration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 10' + 5' per level
+Components: V, S, M
+Duration: 2 rounds per level
+Casting Time: 1
+Area of Effect: One creature
+Saving Throw: Negates
+
+The caster extends his arm, points his finger, and speaks a word to
+cast the spell.  A thin, light blue ray leaps from the caster's
+finger.  The intended target must save vs. petrification.  If the save
+is failed, then the creature is struck by the beam and, unless the
+creature possesses some innate magic resistance, is paralysed for 2
+rounds per level of the caster.  If the save is made, the pencil-thin
+ray has missed its original target and continues on in a straight line
+to the extent of its range.  Any creature in the path of the beam must
+make the same saving throw or be struck and paralysed.  If the ray
+actually strikes, there is no save vs.  its effects.  Size L creatures
+must save at -1, size H at -2, and size G at -4.  Conversely, size S
+creatures save at +1 and size T at +3.  The ray can affect only target
+in any event.  The material component is a clear gem or a piece of
+amber worth at least 100 GP.
+
+------------------------------------------------------------------------
+Alpha's Shadowfire (Evocation, Necromancy)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: Instantaneous
+Casting Time: 4
+Area of Effect: 1' diameter, 5' per level long ray
+Saving Throw: 1/2
+
+This spell calls forth a seething black ray shot through with veins of
+green fire.  All creatures in the path of the spell will suffer d4
+damage per level of the caster, up to a maximum of 20d4.  A successful
+save vs.  breath weapon will result in only half damage.  A creature
+that is immune to fire or to energy drain will suffer only one-half
+damage (one-quarter if a successful save is made).  If the damage
+rolled exceeds a target's remaining hit points, that target is
+disintegrated.  The material component is a black opal worth at least
+500 GP.
+
+------------------------------------------------------------------------
+Alpha's Sheet Lightning (Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 30 yards
+Components: V, S, M
+Duration: Instantaneous
+Casting Time: 4
+Area of Effect: 10' per level square area
+Saving Throw: Special
+
+This spell creates a very bright flashing jolt of sheet lightning
+within the area of effect.  All those in the area receive 4d4
+electrical damage with no saving throw.  In addition, those within must
+save vs. petrification to avoid being blinded for 1d3 rounds and must
+save vs. breath weapon to avoid being stunned for 1d3 rounds.  Those
+carrying large, mostly metallic weapons (e.g. swords, battle axes) or
+wearing partial metal armour (studded-chain) save at -2 vs. the
+stunning and suffer +1 per die of damage.  Those in full metal armour
+(splint or better) save at -4 vs. the stunning and suffer double
+damage.  The material component is a bit of fur and a sheet of fine
+crystal worth at least 50 GP.
+
+------------------------------------------------------------------------
+Bergil's Fire Bolt (Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 20 yards + 5 yards per level
+Components: V, S, M
+Duration: Instant
+Casting Time: 4
+Area of Effect: Special
+Saving Throw: 1/2
+
+The spell creates a powerful bolt of plasma that in inflicts 1d8 points
+of damage per level to anyone in it's area of effect (maximum damage is
+12d8). This bolt is 60' long by 5' wide, it cannot be forked. It
+streaks outward much like a Lightning Bolt. It does not reflect,
+however. If the Firebolt hits a wall the plasma spreads out in 5'
+radius hemisphere, anyone in the hemisphere takes damage. Thus it is
+possible to hit someone standing near a wall twice with the Firebolt,
+once with the bolt and once with the hemisphere. The Firebolt
+automatically sets fire to anything combustible in the path or in the
+hemisphere. The bolt has the same penetration ability as a Lightning
+Bolt. The material components are: a stick, a bit of sulfur, and a dab
+of royal honey. All are consumed.
+
+------------------------------------------------------------------------
+Branit's Backstabbing Surprise (Conjuration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: Special
+Casting Time: 1 turn
+Area of Effect: One person
+Saving Throw: None or 1/2
+
+This spell provides protection against backstabbing. When the recipient
+of the spell is backstabbed, a cloud of acid is created behind the
+spell recipient which blows back and out to form a semi-sphere 8 feet
+in radius. All within the area of effect, the recipient not included,
+take 6d4 + 6 points of acid damage. Note that the backstabber gets no
+save (due to surprise and proximity), all others receive half damage
+upon successful save.
+
+A backstabbing attack is any physical attack or combination of attacks
+initiated from behind which causes damage equal to 1/5 or more of the
+victims hit points at the time of the attack, assuming the attacker is
+within 8 feet of the victim when the attack is initiated. The spell is
+in effect until dispelled or discharged. This spell will work in
+combination with other defensive spells.
+
+The material component is 100 red ants which must be rolled in the
+casters hands, the husks then thrown over each shoulder of the
+recipient, and the juice rubbed into the recipients back.
+
+------------------------------------------------------------------------
+Broom (Enchantment)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: 1d6 hours + 1 hour per level
+Casting Time: 1 turn
+Area of Effect: Broom touched
+Saving Throw: None
+
+A witch uses this spell to enchant her broom with the power of flight.
+The broom flies with a movement rate of 30, minus 1 per 14 pounds above
+182 pounds which it is carrying, and it can climb and turn at an angle
+of 30 in response to the verbal command of its mistress. While the
+enchantment lasts, the witch can summon the broom from up to 300 yards
+away. The material components are a broom, which is not used up by the
+casting, and a feather, which is. The long casting time is necessary to
+set the command words, but if the spell is recast on an already
+enchanted broom, it has a casting time of 3.
+
+------------------------------------------------------------------------
+Chaos Vision (Illusion/Phantasm)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 1" per level
+Components: V, S
+Duration: 1 turn per level
+Casting Time: 2 rounds
+Area of Effect: 1" per level radius sphere
+Saving Throw: None
+
+This spell offers some protection from teleport spells by constantly
+shifting and shaping what an area looks like.  Thus a mage cannot use
+information gathered previously to teleport to the effected area as the
+surroundings will have seemingly changed.  Objects located in this
+environment or entering it will be effected also, first appearing as
+one object or animal and then shifting to another.
+
+Another use found for this spell is as a trap.  Slimes, molds and other
+creatures that don't need senses to attack can be placed in this
+environment and effectively are invisible.
+
+Any attacks on anything in the area of effect is hindered by a -4
+modifier to hit.  Note that true seeing and similar magics that see
+through illusions will likewise penetrate this one.  No damage will be
+taken by being in the illusion. ( Unless from something else physical
+also there of course! )  The main purpose is simply to constantly
+conceal.
+
+------------------------------------------------------------------------
+Cheffield's Kingly Feast (Alteration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 3"
+Components: V, S, M
+Duration: Permanent
+Casting Time: 1 turn
+Area of Effect: One person fed per level
+Saving Throw: None
+
+This spell is similar to Cheffield's Major Feast except that it brings
+into existence food and drink which is of extremely high quality. The
+food is excellent and nourishing. The drink is rich and tasty. This
+meal is truly fit for a king and his kind. In addition to the main meal
+are appetisers to serve before and desserts to be eaten afterward.
+Nobody who is being served by this spell will be unable to finish their
+food.
+
+The material components of this spell are rich spices (40 GP) and a
+good quality wine (minimum 10 GP) which must be mixed together when the
+spell is cast.
+
+As a final note it must be pointed out that the four and twenty black
+birds baked in a pie is an optional feature.
+
+------------------------------------------------------------------------
+Continual Ambience (Alteration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 6"
+Components: V, S, M
+Duration: Permanent
+Casting Time: 4
+Area of Effect: 6" radius globe
+Saving Throw: None
+
+This spell is the same as the second level magic user spell Ambient
+Light (q.v.), except as noted above.
+
+------------------------------------------------------------------------
+Damian's Insulated Envelope (Abjuration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0"
+Components: V, S, M
+Duration: 2 rounds + 1 round per level
+Casting Time: 4
+Area of Effect: Caster
+Saving Throw: Special
+
+Due to his personal dislike of lightning the archmage Damian crafted
+this spell to specifically counter its harmful effects. When cast, this
+spell seems to cover the caster in a pale blue light resembling an
+envelope. Once cast the caster gains 2 Benefits (much like fire
+shield).
+
+1) A save vs. lightning at + 2 indicates no damage to the caster. A
+failed save merely indicates Half damage. If at any time the caster is
+hit by any acid or acid spell the caster must save normally or take
+double damage.
+
+2) If any melee attacks are made on the caster, on a successful strike
+the caster takes normal Damage but so does the attacker.
+
+------------------------------------------------------------------------
+Deadthought (Divination, Necromancy)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: Special
+Casting Time: 1 turn
+Area of Effect: One corpse
+Saving Throw: None
+
+This is essentially telepathy with a corpse, as the forensic wizard
+probes the brain of the deceased for specific data. The dungeon master
+must decide if the information sought is basic, well known, merely
+known, or forgotten. The table below lists the chance of finding the
+information and the amount of time required by the search (if location
+is in fact possible), but the DM can altar these numbers if the body is
+in a particularly advanced state of decomposition.
+
+ Type of	Chance of	Time
+ Information	Finding		Required	Examples
+ -----------	---------	------------	--------------------
+ Basic		96%		1 round		Name and profession
+ Well Known	70%		2-8 rounds	Relating to current
+	 					mission
+ Known		30%		3-12 rounds	Relating to previous
+ 						missions
+ Forgotten	2%		11-20 rounds	Overheard once
+
+This spell will continue as long as the wizard concentrates, but on
+every round there is a 1% chance of that he will go insane. The
+material component is a pair of metal helmets, linked by a copper
+wire.
+
+------------------------------------------------------------------------
+Deave (Alteration, Illusion/Phantasm)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 1" per level
+Components: V, S, M
+Duration: 3 rounds + 1 round per level
+Casting Time: 4
+Area of Effect: One creature
+Saving Throw: Special
+
+This spell causes a temporary sensory overload to occur in all the
+sensory nerve endings of the target creature. Because of this overload
+of all the senses (sight, smell, touch, taste, hearing) will be "burnt
+out" for the duration of the spell. The creature will find himself in a
+state of total sensory deprivation for the spells duration. This means
+that the creature will not be able to see, hear, taste, feel or sell
+anything. The creature will remain completely helpless for the
+duration.
+
+There is an additional side effect of this spell. Because the loss of
+the senses can be so shocking an experience to some creatures, there is
+a 1% chance per point of intelligence and wisdom that the creature will
+suffer from the insanity of Catatonia for a duration of 2-8 weeks
+afterward. This can be cured with a Cure Insanity.
+
+If the creature makes its saving throw vs. spells, then the spell does
+not completely take effect. Only 1 to 4 of the creatures senses are
+affected (determined randomly). Note that some combination of lost
+senses could leave the creature helpless anyway.
+
+The material components for this spell are a small leather hoof, a
+shrill whistle several sharp pins, smelling salts, and a drop of lemon
+juice.
+
+------------------------------------------------------------------------
+Deja Vu (Divination)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 20 yards
+Components: V, S, M
+Duration: Permanent
+Casting Time: 1
+Area of Effect: One creature
+Saving Throw: None
+
+This spell throws the victim back to the location he occupied at a pont
+in the recent past. It does not turn back time, it merely teleports
+back along the victim's "time line." This restriction makes the
+resistance that the magic must overcome much less than a full "teleport
+other" spell would have to fight. Deja Vu sends the victim to the
+position he occupied 1d6 hours in the past per level of the caster.
+
+If the victim would be placed inside another object or creature, the
+victim is placed in a random direction along his time line until an
+unobstructed location is found. The material component is a
+time-keeping device which is destroyed at the time the spell is
+memorised by the caster.
+
+------------------------------------------------------------------------
+Detect Spellcasting (Divination)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 10-yard per level radius
+Components: V, S, M
+Duration: 1 round per level
+Casting Time: 4
+Area of Effect: Special
+Saving Throw: None
+
+This spell allows the caster to scan a surrounding area for spells
+being cast by other magic users. The affected area has a radius of 10
+yards per level of the caster (up to a maximum of 200 yards); the
+caster may make the area of effect smaller if he wishes. Any wizard
+spells that are currently being cast, will be detected (priestly magic
+is not affected). The caster is instantly aware of the school of magic
+of all spells in this area; the name of the spell will also be known,
+if it has already been learned by the caster; in addition, the caster
+gains a general feeling of the location of the caster of each of the
+spells (i.e. approximately 30 feet east).
+
+The relative strength of two spells from the same school will also be
+detected. For example, if a Meteor Swarm and a Burning Hands spell are
+both being cast in the area of effect, this spell will detect which is
+more powerful (this will also work for two Fireball spells cast by two
+wizards of different levels); the actual level of the spell is not
+revealed, and two spells of different schools cannot be compared in
+this way.
+
+The caster may choose one spell to target for specific information;
+this includes: the name and level of the spell (as well as the caster's
+level, if that is relevant to the strength of the spell), the spell's
+target (object, location, creature, etc.), and the exact location of
+the caster. Illusions of level 4 or less are revealed, as long as the
+caster is of higher level than the caster of the illusion. Illusions of
+level 5 or higher will return a false reading (i.e. what the caster
+believes the spell to be) unless the caster has already disbelieved
+that illusion.
+
+This spell does not detect spells which are already in effect. It does
+however detect all spells as they are cast, as long as the duration
+lasts (i.e.  if this spell is cast by a 10th level wizard, it will
+detect all spells that are cast in the following ten rounds).
+
+This spell does have a drawback: the maximum number of spells that can
+be processed safely is equal to the caster's intelligence divided by
+three (round fractions down). If there are more than this number of
+spells being cast inside the area of effect, the caster must make a
+successful system shock roll or fall unconscious for 1d6 rounds (this
+roll must be made every round this condition exists).
+
+The material component for this spell is a powered gem worth at least
+100 GP which must be tossed in the air when the spell is cast.
+
+------------------------------------------------------------------------
+Dreamoore's Eldritch Shield (Abjuration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 3"
+Components: V, S, M
+Duration: Special
+Casting Time: 1
+Area of Effect: One creature
+Saving Throw: None
+
+This spell protects the recipient from any magic energy based attacks.
+Each individual manifestation (e.g. magic missiles, eldritch spheres,
+etc.) directed at the recipient is absorbed by the shield, whether or
+not they successfully hit. The eldritch shield can withstand up to 1d4
++ 1 attack per three levels.
+
+Note that regular attacks also reduce an eldritch shield without any
+penalty, and the shield may only absorb spells which the caster has
+sufficient levels to cast. (e.g. a 9 hit die eldritch shield can
+protect from 5-8 magic missiles or similar spells, while a griffon
+would take off three from the shield and still inflict normal damage).
+The material component is sapphire and diamond dust which is sprinkled
+upon the creature to be protected.
+
+------------------------------------------------------------------------
+Dreamoore's Warding Shield (Abjuration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 1"
+Components: V, S, M
+Duration: Special
+Casting Time: 4
+Area of Effect: One creature
+Saving Throw: None
+
+The warding shield is a unique magical screen which encompasses one
+creature and protects it from harm. The shield remains completely
+invisible until struck by any attack, including weapons and spells
+which cause direct damage. Then it then flares pale blue, absorbing
+part or all of the attack (any damage which is not absorbed goes
+directly to the character using the shield).
+
+The warding shield may absorb up to base 1d4 HP damage + 2 points per
+level of the caster. If a magic resistant creature attacks the spell's
+host, then its resistance is checked first. Success indicates that the
+shield is by- passed during that attack, and damage goes directly to
+the person being protected. However, the shield remains intact until it
+loses all hit points, gets dispelled, or until all hit points elapse,
+at a rate of 1 hit die per turn. A person may have only one warding
+shield at a time.
+
+The material component is 50 GP worth of diamond dust which is thrown
+into the air as the spell is cast.
+
+------------------------------------------------------------------------
+Eldarr's Flameshroud (Abjuration, Invocation/Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Special
+Components: V, S, M
+Duration: 1 round per level (but see below)
+Casting Time: 4
+Area of Effect: Caster
+Saving Throw: Special
+
+When this spell is cast, the caster is enveloped in an invisible shroud
+of flames; a True Seeing spell or similar magic will reveal the shroud,
+and a Detect Magic will reveal strong lines of abjuration and evocation
+magic. The spell imparts on the caster, the equivalent of fire
+resistance for the duration of the spell (see description of ring of
+fire resistance).
+
+In addition to the protection aspect of this spell, the caster may also
+use it offensively: any target that comes within 10 feet of the caster
+may be attacked using the shroud; a small finger of (clearly visible)
+flames shoots from the shroud and strikes the victim, inflicting 1d4
+points of damage, plus 1 point per level of the caster (up to a maximum
+of 1d4 + 20). A successful save vs. spell reduces the damage by half.
+Only one such attack may be made per round, and each attack reduces the
+spell's duration by one round (thus, an attack may not be made the last
+round the spell is in affect).
+
+Anyone who scores a successful melee hit on the caster while he is
+under the protection of this spell, suffers damage equal to that
+inflicted by an attack from the shroud (1d4 + 1 per level); again, a
+successful save vs. spell reduces the damage by one half. The duration
+of the spell is not affected in this case.
+
+The material component for this spell is any normal cape with a chunk
+of sulphur placed in the pocket; the cape must be worn throughout the
+duration of the spell; if it is removed, the spell ends prematurely.
+The cape is not affected by the casting of this spell, but the sulphur
+is consumed when the spell ends.
+
+------------------------------------------------------------------------
+Eldarr's Shockshroud (Abjuration, Invocation/Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Special
+Components: V, S, M
+Duration: 1 round per level (but see below)
+Casting Time: 4
+Area of Effect: Caster
+Saving Throw: Special
+
+This spell is nearly identical to Eldarr's Flameshroud; in covers the
+caster in an invisible shroud of electricity; the shroud is detectable
+by the same means covered in the Flameshroud description. This spell
+provides the user with immunity to lightning and other electrical
+attacks for the duration of the spell.
+
+The caster may use the shroud to conduct electrical attacks in the same
+manner as that for the Flameshroud spell; damage is identical, and each
+attack reduces the duration by one round. The shroud will also provide
+protection vs. melee attacks as per the Flameshroud, with electricity
+again replacing flames.
+
+In addition to the cape (which is not harmed), this spell requires a
+specimen of any electricity-using creature, such as an electric eel;
+this specimen is consumed when the spell ends.
+
+------------------------------------------------------------------------
+Enemy Blink (Alteration, Enchantment/Charm)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 30 yards
+Components: V, S
+Duration: Instantaneous
+Casting Time: 4
+Area of Effect: 4d6 creatures
+Saving Throw: Negates
+
+Makes enemy blink if save failed. Otherwise like blink. Good for use if
+enemy near cliff or large body of water. The number of creatures
+affected is determined randomly, by rolling 4d6.
+
+Cannot make people save twice, ie, "I've got 12, I use them all on him,
+have him save 12 times".
+
+------------------------------------------------------------------------
+Fellstar's Flaming Water (Alteration, Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 10 yards per level
+Components: V, S, M
+Duration: 2 rounds per level
+Casting Time: 4
+Area of Effect: 10' per level radius area
+Saving Throw: 1/2
+
+This spell will cause an area of water to instantly burst into flames
+as if covered with oil and set alight. The center of the area of effect
+may be as far away as 10 yards per level of the caster; the area of
+burning water has a radius of 10 feet per level of the caster, but may
+be smaller if the caster desires. The spell must be cast on an open
+body of water, such as a lake, river, or ocean; it may not be cast at a
+container of water on the person of an individual.
+
+If the center of the area of effect is on the surface, the flames will
+remain only on the surface; if the spell is cast underwater, the flames
+will form a sphere (if the distance between the surface and the center
+of the area of effect is less than 10' per level of the caster, the
+flames will obviously not form a perfect sphere; in this case, the
+surface of the water will burn as well).
+
+The fire will last 2 rounds per level of the caster, or until
+extinguished; the flames may not be doused with water, as this added
+water will burn as well.  The fire must be extinguished by magical
+means (i.e. dispelled or via a Fire Quench or similar magic), or
+allowed to expire. If cast underwater, the duration of this spell is
+halved.
+
+The flames from this fire are sufficient enough to start ships on fire,
+and any creature caught in the area of effect suffers 3d6 points of
+damage, plus 1 point per level of the caster (to a maximum of 3d6+20).
+A successful save vs. spell reduces the damage by half. If this spell
+is used to attack a water elemental or similar creature, the damage is
+doubled, and there is a -4 penalty to the save.
+
+The material components for this spell is a vial filled with a water
+and oil mixture.
+
+------------------------------------------------------------------------
+Glamden's Mixer (Alteration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 10' per level
+Components: V, S, M
+Duration: Instantaneous
+Casting Time: 4
+Area of Effect: One potion
+Saving Throw: None
+
+This spell requires the caster to have a potion of any type in his or
+her possession. The potion is held in the caster's hand, and when the
+spell is cast, the contents is instantly removed from its container and
+reappears in a potion container in the target's possession. The DM then
+makes a potion compatibility check (DMG 2ed. pg. 135) for the target
+potion and applies the results normally. If the target has one or more
+potion containers in sight, the caster may choose which one to affect.
+If the target has no containers in sight, then one is affected
+randomly; if the target has no potion containers in his possession,
+then the spell has no effect. This will also work on a potion that is
+just about to be quaffed, as long as the caster gains the initiative.
+
+The only material component for this spell is the potion to be mixed
+with the target's potion.
+
+------------------------------------------------------------------------
+Hand of Time (Necromancy)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S
+Duration: Special
+Casting Time: 5-8
+Area of Effect: Creature touched
+Saving Throw: Negates
+
+After casting this spell, the death master's hand will bear a baneful
+curse, for the next creature he touches (possibly requiring an attack
+roll) will instantly become 4d10 years older. The spell lasts for one
+round per level of the caster or until discharged, and it cannot be
+reversed.
+
+------------------------------------------------------------------------
+Hold Person II (Enchantment/Charm)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 12"
+Components: V, S, M
+Duration: 1 round per level
+Casting Time: 4
+Area of Effect: One person
+Saving Throw: Negates
+
+This spell is like hold person except as noted above and that the
+saving throw is made at -6.
+
+------------------------------------------------------------------------
+Hydro Shield (Alteration, Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: 2 rounds + 1 round per level
+Casting Time: 4
+Area of Effect: Caster
+Saving Throw: None
+
+By casting this spell, the mage appears to be covered in a mist of
+water. Variation A is coloured blue or green; variation B is coloured
+violet or blue. Any creature striking the spell caster with body or
+hand-held weapons will inflict normal damage upon the mage, but the
+attacker will take double the damage so inflicted! The other powers of
+this spell depend on the variation being used:
+
+Version A: Any electrical attacks will be saved at +2 on the die, and
+will do either half damage (if save is failed) or no damage at all (if
+save is made). Acid based attacks are normal, but if the mage fails the
+required saving throw, he sustains double damage! The material
+component for this version is a bit of tree gum.
+
+Version B: Any acid attacks will be saved at +2 on the die and will do
+either half damage (on an unsuccessful save) or no damage (if save is
+successful). Electrical attacks are normal, but if the mage fails to
+make the required save he sustains double damage from that attack.
+
+The material component for this version is an alkylaine substance.
+
+------------------------------------------------------------------------
+Illumine (Alteration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 60 yards
+Components: V, S, M
+Duration: 1 turn per level
+Casting Time: 4
+Area of Effect: One or more 10-foot radius globes (see below)
+Saving Throw: Special
+
+The Illumine spell acts as a multiple light spell. The wizard may
+create two globes of light, with an additional globe per two levels of
+experience of the wizard above the 7th. Immediately after casting, two
+globes appear where the caster wills. The additional globes appear in
+the following round. The wizard must spend that round specifying the
+centers of spell effect, and may take no other action in that round or
+all succeeding globes are lost. The caster may permanently dispel some
+or all of the globes at any time during the duration of the spell. The
+material component for the spell is one piece of phosphorescent moss
+for each globe. In all respects other than the ones above, this spell
+conforms to the restrictions of the light spell.
+
+Illumine is the fourth of six spells researched by the mage Auralon
+Deathrin in his lifetime. It was developed as a partial solution to
+the annually increasing crime rate in the capital of Travinthia. (They
+make good streetlights with some form of spell extension!)
+
+------------------------------------------------------------------------
+Improved Magic Mouth (Alteration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Special
+Components: V, S, M
+Duration: Special
+Casting Time: 4
+Area of Effect: One object
+Saving Throw: None
+
+Like Magic Mouth but can speak command words to activate magical items,
+Stash spells etc. (but can not cast spells).
+
+------------------------------------------------------------------------
+Independent Spectral Hand (Necromancy)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 30 yards + 5 yards per level
+Components: V, S, M
+Duration: 2 rounds per level
+Casting Time: 2
+Area of Effect: One opponent
+Saving Throw: None
+
+This spell causes a ghostly, glowing hand, shaped from the caster's
+life force, to materialise within the spell range and move as the
+caster desires. Any touch attack spell of 6th level or less that is
+subsequently cast by the wizard can be delivered by the spectral hand
+The spell attacks as the caster at a +2 bonus to hit. The caster may
+perform other actions. The hand is AC -3 and may be hit by magic only.
+Any damage dispels it and does 1d6 points to the caster.
+
+------------------------------------------------------------------------
+Inertia (Alteration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 20 yards per level
+Components: V, S, M
+Duration: 1 turn per level
+Casting Time: 4
+Area of Effect: One creature or object
+Saving Throw: Negates
+
+This spell allows the caster to freeze one creature or object up to 100
+pounds per level, limit regardless of orientation. Creatures flying
+through the air would be frozen in place (remaining in the air),
+immovable until the second command word. The caster is free to cast
+this spell upon himself.  If the subject of the spell is unwilling, it
+receives a saving throw vs. magic, a successful save negating.
+
+The caster must point at the creature or object to be stopped, and
+utters the first command word. If the spell is successful (guaranteed
+in the case of objects within the caster's weight limit), the item is
+frozen in the air, immovable, unless a dispel magic, or other such
+spell is cast, or until the caster utters the second command word. Upon
+saying the second command word, the object or creature resumes its
+initial motion. For example, cast upon a falling chest, would stop the
+chest in the air. Upon the second command, the chest would resume
+falling, even if someone had climbed on top of it. If some poor slob
+happened to be standing directly beneath the chest at the time of the
+second command... If cast at a knight on a horse, for example, the
+caster must specify mount or rider. If cast at the mount, the rider
+would probably continue in his original direction, just without his
+mount. Cast on the rider, he would stay hanging in the air, as his
+mount ran away.
+
+Physical force is insufficient to move frozen objects, so they could,
+for example, be used as anchors for ropes, etc. The caster must be able
+to see the majority of the object of the spell, so he couldn't, for
+example, cast it upon something in somebody's backpack.
+
+The material component of the spell is a silver whistle, which is blown
+prior to shouting the command word.
+
+------------------------------------------------------------------------
+Jamye's Greased Pig (Alteration, Conjuration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 30 yards
+Components: V, S, M
+Duration: 4 rounds + 1 round per level
+Casting Time: 3
+Area of Effect: One creature + 1 creature per 4 levels of the caster
+Saving Throw: Special
+
+This spell is a more powerful version of the third-level Haste spell,
+with the first-level Grease spell thrown in too.  The people that the
+spell is cast upon suffer none of the side effects of the grease (i.e.
+they don't drop their weapons, they don't slip, etc.) but those that
+try to attack or grab them will.  It negates special attacks by
+creatures that inflict damage automatically every round after a
+successful hit (i.e. stirges or executioner's hoods) - the creature
+must roll to hit every round due to the slipperiness of the target.
+Otherwise, it conforms to the normal Haste spell ( -2 on initiative,
+double movement rate, double number of attacks per round, ages
+recipient 1 year).  It is not cumulative with Haste or other Greased
+Pig spells.
+
+The material components for this spell are a bit of butter and an anise
+seed for each recipient.
+
+------------------------------------------------------------------------
+Jamye's Headless Flying Roasted Pig (Enchantment, Summoning)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 60 yards
+Components: V, S, M
+Duration: 1 round per level
+Casting Time: 4
+Area of Effect: Special
+Saving Throw: Negates
+
+This spell summons a pre-prepared headless flying roasted pig. The pig
+flies at a rate of 30, and is under the control of the caster (who must
+give it his full attention).  The pig is magically funny; anyone who
+looks at the pig (except the caster) must save vs. spell every round
+that the pig is in his field of view or fall down laughing until the
+pig leaves.  Laughing victims are at a -2 "to hit" until the spell
+expires.
+
+Victims with an intelligence of 4 or less, that are meat-eaters, will
+be attracted to the pig's delicious aroma and must save at a -6 or
+spend the rest of the spell's duration trying to catch it.  If they are
+vegetarians, they are unaffected.  Those with Intelligences of 5-9 save
+vs. the laughter effect at a -4.  Those with Intelligences of 10-14
+save at a -2.  Those with Intelligences of 15-19 save normally, and
+those who are more intelligent than that are unaffected.
+
+The pig cannot be caught or attacked; those attempting to do so
+automatically succumb to the laughter.  The pig has no other attacks
+besides its magical nature.  It can be Banished or Abjured; Dispel
+Magic merely terminates the caster's control over it.  If the Dispel
+Magic is successful, the pig will leave 50% of the time and stay 50% of
+the time, the magical laughter effect will not be dispelled, and the
+caster will become vulnerable to the laughter's effects.
+
+The material components are a baked, spiced apple and a hummingbird
+feather.  Additionally, a pig of no less than 50 pounds must be
+beheaded, roasted and otherwise prepared ahead of time; this pig does
+not have to be carried with the spellcaster but must not be eaten, as
+it is consumed by the spell at the time of casting.
+
+------------------------------------------------------------------------
+Jamye's Morning After (Alteration, Enchantment/Charm)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: 1d6 rounds per level (see below)
+Casting Time: 4
+Area of Effect: One intelligent creature
+Saving Throw: Negates
+
+This spell takes effect after the victim has had a minimum of two hours
+of sleep.  The victim loses all memory of events that occurred between
+the time the spell was cast and when he awoke.
+
+The victim will remember the existence of any material components used
+in the spell.
+
+The effects of the spell last 1d6 rounds per level of the caster.  The
+caster should not be told the duration of the spell.
+
+------------------------------------------------------------------------
+Jibril's Anti-Magic Shield (Alteration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: 1 round per level
+Casting Time: 1
+Area of Effect: One mage per three levels
+Saving Throw: None
+
+The recipients of this spell are made more aware of the magic around
+them and are also more able to affect it. They therefore have a magic
+resistance of 5% per level of the caster.  A dispel magic is only half
+as likely to dispel this spell.  Note: this spell only effects Mages.
+
+------------------------------------------------------------------------
+Justin's Mental Map (Divination)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 1 mile
+Components: V, S, M
+Duration: Permanent
+Casting Time: 10 minutes
+Area of Effect: 1-mile radius area
+Saving Throw: None
+
+Outdoors only, this spell gives the caster an aerial view of the
+countryside within 1 mile of the caster.  Only large features visible
+from above are noted, like rivers, woods, fields, large buildings, and
+clearings, but not people, caves, small streams, or the like. Material
+component is powdered pineal gland.
+
+------------------------------------------------------------------------
+Mimic (Enchantment/Charm)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 10 feet per level
+Components: V, S, M
+Duration: 1 round per level
+Casting Time: 4
+Area of Effect: One creature
+Saving Throw: Negates
+
+This spell forces some humanoid creature in the caster's line of sight
+to begin mimicing his actions. The creature's actions will directly
+reflect those of the caster, regardless of position or orientation. The
+creature will be frozen momentarily at the onset of the spell, but
+after that segment of inaction, the creature begins mimicing the
+caster.
+
+This can be potentially harmful for the target, if say for example, the
+caster waves his hand in the vicinity of his neck, and the target
+happens to be wielding a sword.
+
+Once the spell is cast, the caster need not be able to see the target
+for the target to mimic his actions. The target does get a second save
+if forced to do actions that are obviously lethal, such as the
+aforementioned hand waving example. If the target passes outside of the
+range of the spell, the spell is broken.
+
+The material component of the spell is a small ivory figurine, which is
+broken to bits in the casting of the spell.
+
+------------------------------------------------------------------------
+Missile Multiplication I (Alteration, Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S
+Duration: 1/5 round
+Casting Time: 6
+Area of Effect: One missile
+Saving Throw: None
+
+A missile must be fired within the next twelve seconds. This spell
+makes 3-18 missiles out of one. Only normal missiles are affected.
+
+The stuff disappears one round after shooting, but their effects stay.
+A nasty assassin in my game used the fifth-level version of this spell
+with sleep-poison darts to capture a PC.
+
+You have to roll to hit for each missile, by the way. However, if your
+first missile hits, you have a +3 on all thereafter.
+
+------------------------------------------------------------------------
+Mystyk's Backlash (Abjuration, Invocation/Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: 1 round per 2 levels
+Casting Time: 4
+Area of Effect: Caster
+Saving Throw: None
+
+When this spell is cast, the caster is surrounded by an invisible shell
+of energy; this shell is invisible to the naked eye, but a True Seeing
+spell or similar magic will reveal it, and a Detect Magic spell will
+detect strong lines of abjuration magic with weaker evocation lines.
+While under the protection of this spell, if the caster is hit in
+melee, the shell will emit a burst of pure energy that lashes out at
+the attacker. The energy will inflict an identical amount of damage as
+that inflicted on the caster by the melee attack (the caster still
+receives normal damage). If the attacker makes a successful save vs.
+spells, he will only suffer half damage. The shell will continue to
+emit energy bursts on attackers as long as the spell's duration lasts,
+or until the shell is dispelled.
+
+The material component for this spell is a small, metal shield and a
+gem worth at least 400 GP. Both components are destroyed when the
+spell is cast.
+
+------------------------------------------------------------------------
+Negative Bolt (Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 2" + 1/3" per level
+Components: V, S
+Duration: Instantaneous
+Casting Time: 4
+Area of Effect: One creature
+Saving Throw: 1/2
+
+This combat spell projects a bolt of negative energy. Some
+practitioners believe it to be merely energy from the negative material
+plane... Said Spellcasters are wrong. The spell actually projects raw
+anti-matter in a bolt of anti-energy. Materials affected by the bolt
+tend to disintegrate and be consumed... Spell wards and defences tend
+to dissolve also. Specific defences exist for the genre of spells
+similar to this one but they are secrets kept for self-defence.
+
+The bolt only does 1d3 per level of the caster but it also has the
+effect of dispelling first and second level defensive spells. Spells
+third through fifth need to make a saving throw based on that of their
+caster to save and sixth level spells only fail on a 1. Though the
+duration of any such affected spell is usually reduced on a ratio to
+the level of the spell (GM decision as to what, though I wouldn't
+suggest more than 1/2 duration).
+
+------------------------------------------------------------------------
+Pander's Whirlwind Travel (Conjuration/Summoning)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: Special
+Casting Time: 1 round
+Area of Effect: Special
+Saving Throw: None or special
+
+This spell encapsulates the caster and possibly more people and/or
+equipment inside a conjured whirlwind. One of two variations of this
+spell may be cast without prior preparation at the option of the
+caster.
+
+The first variation is used by the caster for personal transportation
+or protection. While encapsulated in the whirlwind's eye the wizard can
+view the outside normally and cause the whirlwind to travel over any
+relative continuous surface with short hops over ditches or small
+obstacles not over 4 feet in height being possible. The caster may not
+carry more than his normal encumbrance and all equipment must be on his
+person (exceeding this limit causes the whirlwind to fizzle). No other
+creature may occupy the whirlwind unless it is carried. On solid ground
+the whirlwind can move up to 24" + 1" per level above 5th level. Rate
+of movement is the same whether moving uphill, downhill, or on stairs.
+Over loose sand or marsh the movement rate is 2/3 of normal and over
+water the movement rate is 1/2 of normal. Wind velocities can affect
+the rate of speed. Although the caster may cast any spell from within
+the eye, none will breach the barrier of the winds and spells such as
+Magic Missile, Fireball, or Lightning Bolt will bounce back towards the
+caster, possibly ruining an otherwise fine day.
+
+This variation's duration is 1 turn per level and can be turned on and
+off any time during the duration. It takes 5 segments to turn the winds
+on or off (a good mage would calculate a spell so that it goes off the
+segment after the whirlwind stops). The mage is still susceptible to
+outside damage from spells, but only takes 1/2 or no damage if saving
+throws are made while inside the whirlwind. Projectiles of a small
+nature will not penetrate the winds and the mage's Armour Class and
+saving throws vs. dodging have a +4 bonus while inside the eye of the
+whirlwind.
+
+The second variation is not as fast and cannot be turned on and off (it
+is only good for a one-way trip). But, its area of effect is a 20-foot
+diameter column which is 10 feet high (centered on the caster) and it
+can carry along anything in the area of effect on a relatively safe
+ride over long distances. Movement conforms as above but the base rate
+is 12" + 1" per level of the spellcaster over 5th level and the
+duration is 1 hour per level. All spells cast from inside conform as
+above, as do effects of area spells cast at the whirlwind. All inside
+have a +4 Armour Class bonus since they cannot be seen but there are no
+dodging bonuses and saves vs. dodging are based on the caster for the
+entire group. Weight is not a factor when determining what is picked up
+for the ride. Anything not securely rooted to the ground will be picked
+up. Once started, the winds may only be exited or penetrated after
+startup by making a successful saving throw vs. spell at a penalty of
+-1 for every two levels of the caster, rounded down. Flying creatures
+who enter or exit from the top have no penalty on their save. Creatures
+larger than the area of effect will simply push the whirlwind away if
+they try to enter it. The caster may stop the winds at any time.
+
+The material component of this spell is a piper's flute which is played
+to bring the whirlwind from the elemental plane of Air.
+
+The source of this spell is Pander Pillma.
+
+------------------------------------------------------------------------
+Pobithakor's Alarm (Divination) Reversible
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: 1 day per level
+Casting Time: 1 round
+Area of Effect: One person
+Saving Throw: None
+
+This spell, when cast, will detect and instantly alert the caster
+whenever the caster is the subject of information gathering spells or
+divination spells such as ESP or know alignment. The caster will have a
+general idea of what is being used (mind reading, truth detection,
+etc.) upon him.
+
+The reverse of the spell will cause the caster to have no chance to
+discover that such spells are being used upon him, i.e. the caster
+would not be able to detect someone scrying upon him.
+
+The material components of the spell is an eye from a very keen eyed
+creature such as a hawk or a dragon. The reverse of the spell requires
+that the eye be punctured.
+
+------------------------------------------------------------------------
+Protection from Domination (Abjuration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S
+Duration: 5 rounds per level
+Casting Time: 4
+Area of Effect: One creature
+Saving Throw: None
+
+This spell protects the effected creature from all sorts of domination
+attacks. This includes psionics and spells which do domination.
+
+------------------------------------------------------------------------
+Rathe's Mage Lock (Alteration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: Permanent
+Casting Time: 1 round
+Area of Effect: One portal
+Saving Throw: None
+
+The Mage Lock spell is an advanced form of the Wizard Lock spell. There
+are two main changes from the latter. First, while the spell is in
+effect, the portal cannot be damaged or destroyed by any physical (not
+magical) means short of an elemental. Note, however, that magical means
+of destroying the door (e.g. Fireball, disintegrate, etc) still work as
+normal, and if the door is destroyed, the spell is broken. If the spell
+is dispelled or negated by any means whatsoever (even temporarily), the
+portal will crumble into dust.
+
+Second, the spell has another application; it can be placed upon an
+object. The effect of this is to allow anyone wearing or carrying the
+object to open any Mage Locks by the same caster. For example, if one
+of Rathe's Mage Locked bracelets was worn, the wearer could open any
+door Mage Locked by Rathe (but not by any other mage). The material
+component is half a pound of iron filings for the first application and
+100 GP worth of diamond dust for the second.
+
+------------------------------------------------------------------------
+Resist Acid (Alteration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: 1 turn per level
+Casting Time: 1 round
+Area of Effect: Creature touched
+Saving Throw: None
+
+This spell is similar to the third level mage spell resist electricity
+(q.v.), except this spell provides some protection from acid and acid
+based attacks. The material component for this spell is an alkylaine
+substance.
+
+------------------------------------------------------------------------
+Rhuva's Counter-Scry (Divination)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: 8 hours
+Casting Time: 4
+Area of Effect: 20-yard radius sphere
+Saving Throw: Special
+
+The caster will automatically detect any scrying attempt in the area of
+effect.  The scryer must make a save vs. spells to realise that the
+scrying is being tampered with.  If he does not immediately terminate
+the scrying, the caster of the counter-scry gets a clear image of the
+spy and a general location.  He can cast any ranged spells through the
+link at the scryer, who receives all normal saves.  The caster of the
+counter-scry can also simply jolt the scryer, causing the connection to
+be terminated.  The detection of a scrying attempt will interrupt
+spell-casting.  (It is suggested that "detect scrying" be made a second
+level spell, with a more limited duration and vaguer description of the
+scryer.)
+
+------------------------------------------------------------------------
+Rhuva's Tracker (Divination)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 10 yards per level
+Components: V, S, M
+Duration: 1 day
+Casting Time: 4
+Area of Effect: One creature or object
+Saving Throw: Negates
+
+The mage casts this spell, and hurls a small carved scarab at a target
+within range.  A creature or object in a creature's possession gets a
+save to avoid the scarab. It clings invisibly to its victim, noticed
+only in a determined search.  The caster then always knows where the
+victim is (distance & direction), provided it is within one mile per
+level, and the target is not enclosed in lead.  The tracker can be
+renewed each morning by recasting the spell.
+
+------------------------------------------------------------------------
+Sarius' Golden Triangles of Protection (Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: 1 turn + 1 round per level
+Casting Time: 4
+Area of Effect: One floating 2' high triangle plate per level
+Saving Throw: None
+
+This spell creates golden, shimmering triangular plates of force which
+move around the caster in a constant motion, deflecting any missile,
+hand, or weapon attacks directed at the caster. The AC of the mage is
+improved by a factor of 1 for every three circles still active and any
+successful physical melee attack (including boulders, ballista, or
+attack forms similar to dragon's belly flop maneuver) will be deflected
+automatically. Deflected creatures of large-size (or higher) who are
+deflected must still land somewhere, possibly injuring friend or foe.
+Non-missile attacks by creatures with an effective strength of 23 or
+greater require a saving throw versus breath weapons to deflect.
+
+Each triangle is able to sustain 8 hit points of damage before
+disrupting, so if a deflected attack does not cause enough damage to
+disrupt a triangle (chosen randomly) the triangle will remain active.
+For every 5 triangles active, the effects of breath weapons directed at
+the caster will be reduced by 1 hit point per damage die, with total
+protection from breath attacks becoming a possibility, though, unless
+the breath weapon causes less damage than the current hit points of a
+triangle it will assuredly disrupt the entire field of triangles in the
+process.
+
+While the triangles orbit the mage he is at a -1 to hit penalty for
+every triangle active whenever a to hit roll is needed, including
+spells. The mage may create fewer triangles than the maximum possible.
+The material component(s) of this spell is a single gold piece for
+every triangle created. All pieces are thrown into the air where they
+disappear and are replaced by the floating triangles.
+
+The source of this spell is Sarius Mendlekine.
+
+------------------------------------------------------------------------
+Sarius' Mage Ward (Enchantment, Alteration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: Permanent
+Casting Time: 1 round
+Area of Effect: One amulet
+Saving Throw: None
+
+This spell is used to create a magical amulet which, when worn or
+possessed by a creature, will cause all spells cast by the amulet's
+creator to affect the creature with different variables of power. All
+defensive or beneficial spells will have a +2 (on any applicable die or
+10% if a percentage die) bonus applied to durations, areas of effect,
+ranges, or any increases in which the bonus would benefit the creature.
+All attack or detrimental spells from the mage would apply with a -2
+(or -10%) penalty applied to their operation against the creature. For
+example, if the mage accidentally caught an ally (in possession of his
+Mage Ward) in the area of effect of his Fireball the creature would
+have his needed save reduced by 2 and all damage dice against the
+creature would suffer a -2 penalty, possibly negating the effect on
+that creature.
+
+Also, having the amulet in their possession (knowingly or unknowingly,
+but not forcibly against their will) a creature's base magic resistance
+will automatically be reduced by 2% per level of the mage (at the time
+of the wards creation). Possession is considered to be within 2 inches
+of the creature's body.
+
+The amulet may also be used to negate any portal or device protections
+created or cast by the mage for a one round period. After 10 uses of
+this nature the amulet crumbles to dust. The material component of this
+spell is 10 GP weight of platinum, and a special mold made of wax and a
+crushed sapphire worth at least 500 GP. Once molten, the platinum is
+poured into the mold and then the spell is cast on the cooling metal.
+Note that the amulet does not have to be any certain shape, and can
+later have gems (whether magical or not) mounted into it through
+shaping and/or settings made at the time of molding, but the amulet
+must not be injured by this or one 1-7 of the charges will be used.
+
+The source of this spell is Sarius Mendlekine.
+
+------------------------------------------------------------------------
+Shadow Wall (Abjuration, Conjuration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 1 yard per level
+Components: V, S, M
+Duration: 1 turn per level
+Casting Time: 1 round
+Area of Effect: 100 square feet per level
+Saving Throw: None
+
+This spell is exactly like Astral Wall, except that it additionally
+forbids magical or mystical sensing through the wall. Thus,
+clairvoyance, detect spells, mystical detection abilities, a basilisk's
+gaze, etc. will not be able to pass through a shadow wall. Other
+effects (including the duration increase) are as Astral Wall. The
+material component is a piece of paper with a Blindness Glyph of
+Warding or Symbol inscribed thereupon.
+
+------------------------------------------------------------------------
+Sillvatar's Dragon Wings (Conjuration/Summoning)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: 2 rounds per level
+Casting Time: 4
+Area of Effect: Caster
+Saving Throw: None
+
+When this spell is cast, the caster conjures a shadowy pair of dragon
+wings that appear on his body; these wings provide the caster with the
+movement (flying) rate of the dragon that produced the material
+component. For example, if the material component was taken from a blue
+dragon, the caster would be able to fly at a rate of 30 with an MC of
+C. The colour of the wings' scales will also correspond to the
+appropriate type. The wings will last for 2 rounds per level of the
+caster, or until dispelled.
+
+The material component for this spell is the wing muscle from any type
+of dragon; this component is consumed when the spell is cast.
+
+------------------------------------------------------------------------
+Sleep II (Enchantment/Charm)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 60 yards
+Components: V, S, M
+Duration: 5 rounds per level
+Casting Time: 3
+Area of Effect: Special
+Saving Throw: None
+
+This spell is the same as the first level sleep except as noted. All
+creatures to be effected by the sleep spell must be within the 40'
+radius sphere created upon completion of casting. The sphere must be
+centered on a creature or object within sight and not an area; in
+addition the area of effect can not be reduced, although the caster can
+specify during its casting that creatures closest to the center be
+effected first dependent upon the hit dice of those creatures.
+
+The number of creatures that can be effected is a function of the
+caster's level: for every 2 levels of the caster, 1d6 hit dice, rounded
+up, can be effected. Example: A fifth level wizard could affect 3d6 hit
+dice of monsters. Monsters with 6 + 1 hit dice or more are uneffected.
+The center of effect is determined by the caster although the caster
+may not be in the area of effect upon spell completion or risk its
+effects. The creatures with the least hit dice are affected first
+(dependent upon the casters wishes, additionally creatures below a
+certain hit dice may be excluded), and partial effects are ignored.
+The material components for this spell is a pinch of fine sand and rose
+pedals, or a live cricket.
+
+------------------------------------------------------------------------
+Sonoric's Animal Awareness (Divination, Enchantment/Charm)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Special
+Components: V, S, M
+Duration: Special
+Casting Time: 4
+Area of Effect: One animal
+Saving Throw: Negates
+
+With this spell, the caster is able to take control any any small (size
+Tiny) creature of less than 1+ HD in his line of sight. If the creature
+is above animal intelligence, it gets a saving throw versus spells, a
+successful save indicating spell failure. The creature is at -4 to save
+if the caster has a good grip on it for the duration of the spells
+casting. Those creatures of a non-magical nature of less then animal
+intelligence do not get a save. Those of a magical nature get a save at
+-4.
+
+Once the caster has control of the animal, while concentrating he can
+see, hear, etc through the animal's senses. He can also control the
+animal's actions, even special movement, such as flying, swimming and
+burrowing, although the if the caster attempts to get the creature to
+attack something not below itself on the food chain, the animal has a
+(75 - minus caster's level) percent chance of escaping the grip of the
+spell. While concentrating on the animal, the caster is incapable of
+any other action.
+
+The caster can maintain control of the animal up to 100 yards away, per
+level of the caster. Those seeing the controlled animal will notice any
+strange behaviour it may be exhibiting, if they make the appropriate
+perception checks (i.e. INT check, or save versus paralysation). The
+spell is broken if the caster ceases concentration, or if the animal
+takes more than 4 HP of damage. Otherwise, the spell lasts for a turn
+per three levels of the caster (i.e. two turns at fourth, three at
+seventh, etc).
+
+The material component of the spell is a bit of food, which the target
+animal would find appetising, which is consumed by the caster in the
+casting of the spell.
+
+------------------------------------------------------------------------
+Sonoric's Fly on the Wall (Divination, Necromancy)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Special
+Components: V, S, M
+Duration: 2 rounds per level
+Casting Time: 1 turn
+Area of Effect: Special
+Saving Throw: None
+
+This spell creates a spying device out of an ordinary flying insect.
+Upon casting the spell upon an insect, living or dead, the spell grants
+the abilities of limited clairaudience and clairvoyance, centered on
+the insect.  The mage, while concentrating on the insect, can hear any
+noise within 15' of the insect. Clairvoyance through the insect,
+however, is rather disorientating, and the mage is -2 to hit and AC for
+three rounds after breaking concentration. The insect has a flying
+movement rate of 6", and its movement is controlled by the
+concentrating mage.
+
+If concentration is broken before the end of the spell duration, the
+fly drops to the ground, and there is a 75% chance that, if the mage
+resumes concentration, it will be too damaged to fly again, although
+the clairaudience and clairvoyance will still work for the remainder of
+the duration. If the fly takes any damage during the spell, such as
+being swatted or stepped on, the insect will no longer fly, but,
+provided that at least half of the fly remains, the clairaudience and
+clairvoyance will still work.
+
+The material component of the spell is the body of a winged insect,
+living or dead, which is slain in the casting of the spell.
+
+------------------------------------------------------------------------
+Sonoric's Spying Minions (Conjuration/Summoning, Divination)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Special
+Components: V, S, M
+Duration: 1 hour + 1 turn per level
+Casting Time: 1 turn
+Area of Effect: Special
+Saving Throw: None
+
+This spell summons minor etherlings from the Ethereal Plane, to serve
+the caster's wishes. Etherlings, being rather stupid and weak, are only
+suited for simple tasks, such as spying. Upon summoning the creatures,
+the caster must detail, in simple language, what he service he wishes
+the etherlings to perform. The etherlings, in their stupidity, will be
+honoured by the request for service, and will perform the task to the
+best of their abilities and comprehension.
+
+A minor etherling (AC:2 MV:60 HD:2 #AT:1 D:1-3), is a small, vaguely
+humanoid appearing creature, formed of the stuff of the plane ethereal.
+On the prime material plane, it appears as a hazy, humanoid- shape
+ghostly apparition, about 3' tall. It moves by flying, and is
+unobstructed by walls and solid objects, save lead, the touch of which
+sends it back to the ethereal plane. It is fairly stupid (INT: 5),
+although extremely talkative, and puppyish in its affection of the
+caster. The etherling will do its best to please the caster, to the
+point of becoming annoying. It does have some special abilities, making
+it particularly useful, however. It has a photographic memory, and will
+never forget what it saw and heard during its period of service. It
+also has the ability to turn small objects (one at a time), weighing
+less than five pounds, ethereal, allowing it to transport the item. It
+can also turn itself invisible at will, although those able to see onto
+the ethereal plane will be able to see it clearly. It can push its
+movement rate up to 120, for up to a turn at a time. It can only attack
+things on the ethereal plane, and even there not very effectively.
+Finally, the fact that it only partially exists on the Prime Material
+plane during the spell means that it is only hit by magic weapons, and
+spells.
+
+The spell summons one etherling per three levels of the caster, one at
+first, two at fourth, three at seventh, etc. The caster can detail
+separate task for each individual etherling summoned, and may cast the
+spell more than once during its duration (allowing him to summon a
+virtual horde), as the spell requires no concentration after the
+initial casting.  An etherlings instructions can be facilitated by
+pictures (as in "Follow this *point* man... The one in the painting" or
+"Follow her *point*... The one in this Phantasmal Force"). It is up to
+the DM to decide the chance of the etherling getting confused, and
+screwing up the task. I suggest that it has a 100% chance of getting
+the task right, -1% for each word in the description (i.e. 10 words,
+70% chance), giving a bonus for things such as pictures, and other
+helpful examples.  If the etherling should encounter any mentally
+straining problems, such as if its "mark" (he whom it is tailing or
+spying upon) teleports away, or disguises its features, casts
+illusions, etc, make an intelligence check for the etherling, modified
+by the situation. If the etherling fails, it is hopelessly confused,
+and returns to the Ethereal plane. The caster must take care to give
+the etherling tasks which it can complete within the duration of the
+spell, as the etherling returns to the Ethereal Plane at the end of the
+spells duration.
+
+Some examples of tasks given to etherlings would be "Go to the chamber
+at the end of the hall, stay there, and return to me in 20 minutes, to
+tell me what you heard and saw.", or "Go to this room in the tower of
+the castle, and bring me back a book that looks like this...", or "Find
+this man, follow him for half an hour, and return to me, telling me
+what you witnessed.", or "Find this man, and tell him 'Va banque. The
+game is thick' ", and similar such things.  Etherlings are intelligent
+enough to follow the spirit of the commands, provided they are simple
+enough.  Etherlings have an innate sense of direction, and will not get
+lost on the Prime Material plane. They have the mentalities of young
+children.  They will only perform service on the material plane.
+
+The material components of the spell are small figurines, one for each
+etherling to be summoned. They must be fairly detailed, and are
+consumed in the casting of the spell.
+
+------------------------------------------------------------------------
+Spirit Skill (Enchantment)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: 1 turn per level
+Casting Time: 1 round
+Area of Effect: Person touched
+Saving Throw: None
+
+This spell transfers skills from a specially prepared vessel into a
+willing recipient. The material component is a symbol prepared using
+Steal Skill, which must be carried by the recipient and disappears upon
+completion of the spell.
+
+------------------------------------------------------------------------
+Steal Skill (Conjuration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Touch
+Components: V, S, M
+Duration: Special
+Casting Time: 1 turn
+Area of Effect: Special
+Saving Throw: None
+
+This spell lets a wizard steal the class-related skills of a willing
+humanoid victim and transfer them either to the wizard or to a special
+container. The victim drops to first level, and regains levels at the
+rate of 1 per four hours thereafter. The caster gains 1/2 the
+class-related skills of the victim (if stealing from a fighter, the
+caster will gain the ability to wear armour and attack with a THAC0
+halfway between the fighter's and the default 20 with any weapon with
+which the fighter is proficient; if stealing from a thief the caster
+will gain thief abilities which are the average of the thief's
+abilities and the base of 4; in no case will abilities go down because
+of this). Abilities which are granted by a diety cannot be transferred
+this way, nor can spellcasting abilities. The transferred abilities
+fade after one turn per level.
+
+The material component is a symbol of the class to be transferred,
+specially prepared and costing not less than 10 GP per level of the
+target. If the caster wishes, he may imbue the symbol with these skills
+rather than using them at the time (in which case it will not
+disappear). The primary purpose of this use is to provide the material
+component for Spirit Skill.
+
+------------------------------------------------------------------------
+Suppress Magic Resistance (Abjuration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 10 yards per level
+Components: V, S
+Duration: 1 round per level
+Casting Time: 1 round
+Area of Effect: One source of magic resistance
+Saving Throw: None
+
+By means of this spell, the caster can temporarily suppress the magic
+resistance emanating from one creature or object, thus allowing other
+spells and magical effects to have an increased chance of effect. The
+spell affects one creature or object and the area that its magic
+resistance protects. For example, this spell can be cast a paladin
+wielding a holy sword that provides magic resistance in a 5' radius,
+and the magic resistance can be suppressed in the entire area of
+effect. If there are multiple sources of magic resistance affecting the
+same area, this spell may only target one of them.
+
+This spell can suppress up to 5% magic resistance per level of the
+caster. Partial effects are possible. For example, if a 10th level
+mage is casting the spell at a creature with 80% magic resistance, that
+creature's magic resistance will be lowered to 30% while this spell is
+in effect. Of course, this spell will not go into effect unless the
+creature fails its magic resistance roll.
+
+The caster must maintain some concentration in order to preserve the
+spell's effect. The caster may not perform any actions except moving at
+up to half his normal movement rate. If the caster is successfully
+attacked, then his concentration is also broken. If concentration is
+broken, the spell's effects terminate immediately.
+
+The caster, however, may choose to terminate the spell in a controlled
+manner, and during the last round before the spell is terminated, the
+spellcaster, in addition to moving at up to half his normal movement
+rate, may also cast one spell whose casting time is up to one round.
+The target's magic resistance remains lowered when making its
+resistance check against this spell. Of course, other spellcasters and
+devices may also cast spells while the target's magic resistance is
+lowered, and such magic does not terminate the suppress magic
+resistance spell.
+
+This spell will totally negate a magic resistance spell if it is
+successful at suppressing magic resistance of a percentage at least as
+high as the percentage given by the magic resistance spell. In such a
+case, concentration by the caster is not necessary.
+
+------------------------------------------------------------------------
+Teleport Trace (Divination)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 10 yards per level
+Components: S
+Duration: 10 rounds + 1 round per level
+Casting Time: 3
+Area of Effect: One creature
+Saving Throw: None
+
+The wizard casts this spell on a character or creature who is likely to
+teleport or employ similar magic in the near future. If the recipient
+does cast teleport (or dimension door, word of recall, etc.), then the
+wizard who placed the teleport trace will receive a mental image of the
+target location. The caster of the trace will then know his location
+relative to that of the teleporter, and he will be able to use his own
+teleportation or scrying magic with maximum accuracy.
+
+------------------------------------------------------------------------
+Time Warp (Alteration)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: Special
+Components: V, S, M
+Duration: 3 rounds + 1 round per level
+Casting Time: 4
+Area of Effect: 40' cube, 1 creature per level
+Saving Throw: Special
+
+This is a combined haste and slow spell. At the time of casting, the
+caster chooses which application to use. The effects, as well as range,
+saving throw, and material components are as per the appropriate
+spell.
+
+------------------------------------------------------------------------
+Uldark's Conjured Fireball (Conjuration/Summoning)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 10 yards + 10 yards per 2 levels
+Components: V, S, M
+Duration: Instantaneous
+Casting Time: 4
+Area of Effect: 15-foot radius sphere
+Saving Throw: 1/2
+
+This spell duplicates the 3rd level spell Fireball in most respects;
+however, instead of shaping the Fireball from magical energy as the
+evocation version does, this spell actually conjures a ball of fire
+directly from the elemental plane of fire.  When the spell is cast, a
+small interdimensional connection opens between the plane of fire and
+the caster's plane; the Fireball enters through this opening and
+strikes the targets as directed by the caster.  There is a chance that
+an extraplanar creature may enter through the opening as well.  The
+chance of this occurring is:  20% - 1% per level of the caster (to a
+minimum of 1%).
+
+This spell has the same effects (including damage) as the evocation
+version, but it is slightly harder to produce these effects in this
+manner; this is reflected in the higher spell level and the reduced
+range and area of effect.
+
+The material components for this spell are a piece of flint and a pinch
+of sulphur.
+
+------------------------------------------------------------------------
+Uldark's Conjured Frost Bolt (Conjuration/Summoning)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 20 yards + 10 yards per 2 levels
+Components: V, S, M
+Duration: Instantaneous
+Casting Time: 4
+Area of Effect: 50' long x 10' wide bolt
+Saving Throw: 1/2
+
+This spell is similar to Uldark's Conjured Lightning Bolt [q.v]. It
+conjures a bolt of frost and ice from the para-elemental plane of ice.
+The chance that an extraplanar creature enters the caster's plane is
+the same as that of the Conjured Lightning Bolt spell. The bolt is 50
+feet long and 10 feet wide; anyone hit by the bolt suffers 1d6 points
+of damage per level of the caster (up to a maximum of 10d6). A
+successful save vs. spells reduces the damage by half.
+
+The material component for this spell is a large chunk of ice or snow;
+this is consumed with the casting.
+
+------------------------------------------------------------------------
+Uldark's Conjured Lightning Bolt (Conjuration/Summoning)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 40 yards + 10 yards per 2 levels
+Components: V, S, M
+Duration: Instantaneous
+Casting Time: 4
+Area of Effect: Special
+Saving Throw: 1/2
+
+This spell is similar to Uldark's Conjured Fireball except that it
+conjures a Lightning Bolt from the quasi-elemental plane of lightning,
+instead of a Fireball from the plane of fire.  The chance that an
+extraplanar creature enters the caster's plane is the same as that of
+the Conjured Fireball spell.  The effects of this spell are identical
+to that of the normal Lightning Bolt spell, but the area of effect is
+either a bolt 30' long and 10' wide, or a bolt 60' long and 5' wide.
+
+The material components of this spell are a small metal rod and the
+skin of an electric eel.
+
+------------------------------------------------------------------------
+Vander's Librarian (Conjuration/Summoning)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 20 yards
+Components: V, S
+Duration: 6 hours
+Casting Time: 1 minute
+Area of Effect: One minor spirit
+Saving Throw: None
+
+This spell conjures a minor knowledge spirit to search for books and
+references for the wizard.  It can search for titles, specific
+references, or general subject matter, finding books in the time it
+would take a reasonably skilled librarian (depends on case).  The
+wizard is freed to concentrate on more interesting matters, so this
+spell roughly doubles a wizard's research efficiency.
+
+------------------------------------------------------------------------
+Vandergast's Forcetrap (Invocation/Evocation)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 5 yards per level
+Components: V, S
+Duration: Special
+Casting Time: 4
+Area of Effect: One creature
+Saving Throw: Negates
+
+When this spell is cast, a shimmering, blue bolt shoots from the
+caster's finger towards the target; when the target is struck, the bolt
+erupts into multiple bands of force that envelop the victim. If a
+successful save vs.  spell is made, the spell dissipates and has no
+effect; otherwise, the bands of force will render the target completely
+immobile by normal means, as his hands, feet, etc. will be snuggly
+bound. The target may still levitate or employ other means of magical
+movement, but may not walk, cast spells requiring a somatic component,
+or fight. Any size target may be affected by this spell.
+
+The bands of force may not be harmed by weapons or most spells, but may
+be dispelled; a Wish or Limited Wish will also destroy the bands. The
+only other way to escape the bands is to roll a successful bend bars
+check. The victim may make one such attempt each round; in addition,
+*one* attempt may be made each round from an external source; if anyone
+touches the bands after the first external bend bars attempt (including
+another bend bars attempt, striking the bands with a weapon, etc.) the
+person touching the bands is immediately trapped as well, with no save.
+If two or more persons are trapped by this spell, each earns a bend
+bars roll each round; however, no external attempts may be made, or
+that person will also become trapped. In any case, if a bend bars roll
+is successful, the bands break, and the spells ends immediately.
+
+------------------------------------------------------------------------
+View Past (Divination)
+Level: 4
+Source:  Great Net Spellbook, V3
+Range: 0
+Components: V, S, M
+Duration: 1 turn per level
+Casting Time: 1 hour
+Area of Effect: 1/2" per level radius area
+Saving Throw: None
+
+When this spell is cast on an area, it allows the caster to create a
+three-dimensional image of the past in that location. The caster
+specifies the time in the past through the use of the material
+component.
+
+Ten gold pieces worth of gold dust is required for each hour back into
+the past the caster wishes to go. Thus, if the caster uses 240 GP worth
+of dust, then he will be able to view the period from 24 hours to the
+end of the duration of the spell (e.g., if the caster was 10th level,
+then the duration of the spell would be from 24 hours in the past to 22
+hours and 20 minutes into the past).
+
+After the spell has been cast, the DM rolls 2D10 - 11 to determine the
+error in the time frame in turns from the specified time.
+
+The caster should roll 1D20 to determine the clarity of the casting. A
+die roll of one indicates that the scene comes through as shadows in a
+fog. A die roll of 20 indicates a crystal clear picture. This roll can
+be repeated in subsequent castings, and represents the difficulty in
+seeing through time.
+
+Both the following dice rolls can be modified by the casters desire
+based on the following modifiers:
+
+ caster participated in the event			+10
+ caster very well informed of the event			+6
+ caster knows an exact quote during the event		+4
+ caster knows something that was said at the time	+2
+
+Events that are cloaked by spells that hide themselves from
+Clairvoyance also mask out View Past, and thus cannot be seen by this
+spell.
